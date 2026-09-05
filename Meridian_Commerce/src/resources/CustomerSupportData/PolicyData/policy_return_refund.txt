@@ -1,0 +1,59 @@
+RETURN & REFUND POLICY — Meridian Commerce
+
+1. General Return Window
+Most items purchased on Meridian Commerce can be returned within 14 days of
+delivery for a full refund or exchange, provided the item is unused, in its
+original packaging, and accompanied by the order confirmation or invoice.
+
+2. Category-Specific Rules
+- Electronics (headphones, smartwatches, speakers, power banks, chargers,
+  earbuds): returnable within 10 days. The item must power on and pass a
+  basic functionality check by our returns team. Opened software licenses
+  and activated SIM-based devices are non-returnable.
+- Laptops, smartphones, tablets, cameras: returnable within 7 days, sealed
+  accessories and original packaging required. A 5% restocking fee applies
+  if the box has been opened but the device shows no defect.
+- Footwear: returnable within 14 days if unworn, with tags and original
+  shoebox intact. Shoes returned with visible outdoor wear are rejected.
+- Apparel: returnable within 14 days with tags attached and no signs of
+  washing or wear.
+- Home Goods (blenders, air fryers, cookware, vacuum cleaners, coffee
+  makers): returnable within 10 days only if unused and all accessories are
+  included. Appliances showing signs of use (food residue, burnt smell,
+  scratches on non-stick surfaces) are not eligible for return.
+- Bedsheets, storage bins, lamps: returnable within 14 days if unused and
+  in original packaging.
+
+3. Non-Returnable Items
+- Innerwear, swimwear, and pierced jewelry.
+- Digital gift cards and downloadable software licenses.
+- Items marked "Final Sale" or "Clearance" at checkout.
+- Personal care and grooming devices once the hygiene seal is broken.
+
+4. Condition Requirements
+Items must be returned in their original, resalable condition. An appliance
+or electronic item that has visibly been used will be rejected during the
+returns quality check, regardless of how many days remain in the return
+window.
+
+5. How to Initiate a Return
+Go to "My Orders" > select the item > "Return or Replace" > choose a reason
+> schedule a pickup. A prepaid return label is generated automatically for
+eligible returns. Refunds are processed within 5-7 business days after the
+returned item passes quality inspection at our warehouse.
+
+6. Refund Method
+Refunds are issued to the original payment method used at checkout. For
+Cash on Delivery (COD) orders, refunds are issued as Meridian Wallet credit
+or a direct bank transfer, at the customer's choice.
+
+7. High-Value Return Review
+Returns on orders above ₹20,000, or any return flagged by our fraud
+detection system (e.g. unusually high return frequency on the account),
+are routed to manual review before a refund is approved. Manual review
+adds 2-3 business days to the standard refund timeline.
+
+8. Exchanges
+Size and color exchanges (footwear and apparel only) are processed as a
+combined return-and-reorder and follow the same eligibility windows as
+returns above.

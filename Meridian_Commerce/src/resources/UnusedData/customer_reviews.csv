@@ -1,0 +1,701 @@
+review_id,product_id,customer_id,review_text,star_rating,review_date
+R5000,P1084,C2402,Good enough for occasional use.,3,2026-06-30
+R5001,P1146,C2063,Solid build quality and looks even better in person.,5,2026-01-23
+R5002,P1047,C2043,Doesn't match the photos on the website at all.,1,2026-03-07
+R5003,P1104,C2094,"Not bad, but I expected slightly better finishing.",3,2025-01-30
+R5004,P1137,C2326,"Great quality for the price, would buy again.",4,2026-04-11
+R5005,P1108,C2166,Perfect fit and the material feels premium.,5,2025-12-24
+R5006,P1173,C2445,Solid build quality and looks even better in person.,4,2025-01-28
+R5007,P1132,C2351,"Exceeded my expectations, arrived quickly too.",4,2025-05-19
+R5008,P1050,C2356,"It's decent, does the job but nothing special.",3,2026-02-28
+R5009,P1082,C2156,Been using it for a few weeks now and no complaints at all.,4,2026-05-15
+R5010,P1150,C2355,"Exceeded my expectations, arrived quickly too.",4,2026-01-29
+R5011,P1123,C2179,Been using it for a few weeks now and no complaints at all.,5,2025-07-10
+R5012,P1065,C2372,"It's decent, does the job but nothing special.",3,2025-02-14
+R5013,P1074,C2091,Perfect fit and the material feels premium.,4,2025-03-28
+R5014,P1176,C2158,Perfect fit and the material feels premium.,5,2026-01-24
+R5015,P1221,C2403,Packaging was poor and the item arrived slightly damaged.,2,2026-05-08
+R5016,P1004,C2142,"Exceeded my expectations, arrived quickly too.",4,2025-09-27
+R5017,P1137,C2326,"Great quality for the price, would buy again.",5,2026-04-17
+R5018,P1116,C2032,Been using it for a few weeks now and no complaints at all.,4,2025-02-23
+R5019,P1162,C2040,Perfect fit and the material feels premium.,5,2025-12-26
+R5020,P1190,C2411,"It's decent, does the job but nothing special.",3,2025-05-11
+R5021,P1051,C2275,"Really happy with this purchase, works exactly as described.",4,2025-04-02
+R5022,P1044,C2200,"Great quality for the price, would buy again.",4,2025-01-21
+R5023,P1213,C2125,"Exceeded my expectations, arrived quickly too.",5,2026-04-22
+R5024,P1088,C2164,Sizing was off compared to the size chart.,2,2025-12-21
+R5025,P1184,C2247,"Exceeded my expectations, arrived quickly too.",5,2026-05-13
+R5026,P1113,C2412,"Great quality for the price, would buy again.",5,2025-01-29
+R5027,P1098,C2207,Been using it for a few weeks now and no complaints at all.,4,2025-08-27
+R5028,P1209,C2367,Been using it for a few weeks now and no complaints at all.,4,2025-04-23
+R5029,P1033,C2438,"Exceeded my expectations, arrived quickly too.",5,2025-05-05
+R5030,P1015,C2010,Perfect fit and the material feels premium.,5,2025-04-03
+R5031,P1124,C2217,"It's decent, does the job but nothing special.",3,2026-03-07
+R5032,P1180,C2143,Solid build quality and looks even better in person.,4,2025-09-20
+R5033,P1188,C2137,"Exceeded my expectations, arrived quickly too.",5,2026-01-03
+R5034,P1180,C2217,Solid build quality and looks even better in person.,5,2025-05-14
+R5035,P1082,C2140,Been using it for a few weeks now and no complaints at all.,5,2026-02-28
+R5036,P1109,C2156,"Exceeded my expectations, arrived quickly too.",5,2025-06-15
+R5037,P1153,C2029,Doesn't match the photos on the website at all.,1,2025-09-04
+R5038,P1114,C2070,"Really happy with this purchase, works exactly as described.",5,2025-11-23
+R5039,P1186,C2296,"Not worth the money, wouldn't recommend.",1,2025-06-29
+R5040,P1110,C2410,"Really happy with this purchase, works exactly as described.",5,2026-03-10
+R5041,P1021,C2235,Solid build quality and looks even better in person.,5,2025-09-13
+R5042,P1118,C2176,Solid build quality and looks even better in person.,5,2025-09-15
+R5043,P1011,C2389,"Great quality for the price, would buy again.",5,2026-03-20
+R5044,P1005,C2417,"It's decent, does the job but nothing special.",3,2025-07-30
+R5045,P1078,C2320,"Really happy with this purchase, works exactly as described.",5,2025-09-07
+R5046,P1174,C2315,Doesn't match the photos on the website at all.,2,2025-11-05
+R5047,P1054,C2421,"Exceeded my expectations, arrived quickly too.",4,2025-01-28
+R5048,P1028,C2140,"Really happy with this purchase, works exactly as described.",4,2025-06-27
+R5049,P1053,C2121,"Not bad, but I expected slightly better finishing.",3,2026-01-19
+R5050,P1114,C2414,Good enough for occasional use.,3,2025-10-03
+R5051,P1108,C2096,"Really happy with this purchase, works exactly as described.",4,2025-07-15
+R5052,P1010,C2390,Solid build quality and looks even better in person.,4,2025-08-16
+R5053,P1033,C2104,Good enough for occasional use.,3,2025-08-14
+R5054,P1151,C2348,"Exceeded my expectations, arrived quickly too.",4,2025-02-02
+R5055,P1056,C2307,Sizing was off compared to the size chart.,2,2025-10-29
+R5056,P1039,C2391,Sizing was off compared to the size chart.,1,2026-04-20
+R5057,P1167,C2294,"Exceeded my expectations, arrived quickly too.",5,2025-07-28
+R5058,P1097,C2099,"Really happy with this purchase, works exactly as described.",5,2025-11-05
+R5059,P1219,C2094,"Really happy with this purchase, works exactly as described.",5,2026-05-11
+R5060,P1065,C2294,"Really happy with this purchase, works exactly as described.",4,2026-01-29
+R5061,P1033,C2360,"Really happy with this purchase, works exactly as described.",5,2026-06-10
+R5062,P1163,C2195,"It's decent, does the job but nothing special.",3,2025-09-09
+R5063,P1082,C2254,Been using it for a few weeks now and no complaints at all.,5,2025-01-31
+R5064,P1221,C2403,Sizing was off compared to the size chart.,2,2026-05-03
+R5065,P1122,C2341,"Really happy with this purchase, works exactly as described.",5,2026-05-16
+R5066,P1222,C2184,"Average quality, matches the price point.",3,2025-11-05
+R5067,P1094,C2190,Perfect fit and the material feels premium.,4,2025-10-19
+R5068,P1084,C2327,Perfect fit and the material feels premium.,4,2025-10-05
+R5069,P1033,C2294,"It's decent, does the job but nothing special.",3,2026-01-29
+R5070,P1067,C2065,"Great quality for the price, would buy again.",5,2025-09-09
+R5071,P1023,C2117,Solid build quality and looks even better in person.,5,2026-06-30
+R5072,P1196,C2360,"Exceeded my expectations, arrived quickly too.",4,2026-03-08
+R5073,P1033,C2131,"Really happy with this purchase, works exactly as described.",5,2026-01-27
+R5074,P1079,C2329,"Really happy with this purchase, works exactly as described.",5,2026-04-14
+R5075,P1023,C2117,Been using it for a few weeks now and no complaints at all.,4,2026-06-30
+R5076,P1095,C2356,Perfect fit and the material feels premium.,5,2026-04-22
+R5077,P1138,C2264,Doesn't match the photos on the website at all.,1,2025-10-24
+R5078,P1149,C2142,Perfect fit and the material feels premium.,4,2025-07-13
+R5079,P1109,C2225,Solid build quality and looks even better in person.,4,2025-12-20
+R5080,P1146,C2132,Sizing was off compared to the size chart.,1,2025-02-17
+R5081,P1198,C2219,Been using it for a few weeks now and no complaints at all.,5,2026-03-07
+R5082,P1207,C2330,"Works fine so far, will update if anything changes.",3,2026-04-25
+R5083,P1204,C2291,"It's decent, does the job but nothing special.",3,2025-11-26
+R5084,P1039,C2389,"Really happy with this purchase, works exactly as described.",5,2025-09-13
+R5085,P1204,C2031,Good enough for occasional use.,3,2025-07-17
+R5086,P1044,C2268,"Not bad, but I expected slightly better finishing.",3,2025-02-12
+R5087,P1183,C2052,Been using it for a few weeks now and no complaints at all.,5,2025-07-19
+R5088,P1060,C2392,"Not worth the money, wouldn't recommend.",2,2025-04-25
+R5089,P1181,C2360,Perfect fit and the material feels premium.,4,2025-02-05
+R5090,P1222,C2296,Doesn't match the photos on the website at all.,1,2026-05-13
+R5091,P1056,C2269,Perfect fit and the material feels premium.,4,2025-10-21
+R5092,P1026,C2034,"Really happy with this purchase, works exactly as described.",5,2025-02-09
+R5093,P1146,C2357,Solid build quality and looks even better in person.,4,2025-02-27
+R5094,P1098,C2133,Sizing was off compared to the size chart.,2,2025-07-04
+R5095,P1082,C2281,Good enough for occasional use.,3,2025-11-03
+R5096,P1013,C2142,"Exceeded my expectations, arrived quickly too.",5,2026-02-07
+R5097,P1104,C2439,"Works fine so far, will update if anything changes.",3,2026-04-24
+R5098,P1138,C2008,Perfect fit and the material feels premium.,5,2025-04-27
+R5099,P1080,C2381,Stopped working within a week of regular use.,2,2025-11-25
+R5100,P1006,C2273,Sizing was off compared to the size chart.,1,2025-04-22
+R5101,P1169,C2304,"Really happy with this purchase, works exactly as described.",4,2025-03-04
+R5102,P1194,C2178,Been using it for a few weeks now and no complaints at all.,4,2025-03-26
+R5103,P1149,C2142,Been using it for a few weeks now and no complaints at all.,4,2025-07-10
+R5104,P1176,C2084,"Great quality for the price, would buy again.",4,2025-05-03
+R5105,P1053,C2075,"It's decent, does the job but nothing special.",3,2025-04-19
+R5106,P1064,C2038,Been using it for a few weeks now and no complaints at all.,5,2025-12-16
+R5107,P1136,C2322,Solid build quality and looks even better in person.,4,2026-06-08
+R5108,P1194,C2302,"Really happy with this purchase, works exactly as described.",4,2025-01-19
+R5109,P1196,C2324,Perfect fit and the material feels premium.,4,2026-06-11
+R5110,P1139,C2185,Been using it for a few weeks now and no complaints at all.,5,2026-06-30
+R5111,P1182,C2326,"Works fine so far, will update if anything changes.",3,2025-04-23
+R5112,P1052,C2254,Perfect fit and the material feels premium.,4,2025-03-08
+R5113,P1092,C2013,Solid build quality and looks even better in person.,4,2026-05-09
+R5114,P1020,C2261,Solid build quality and looks even better in person.,4,2025-04-24
+R5115,P1013,C2432,Perfect fit and the material feels premium.,5,2025-10-29
+R5116,P1143,C2216,Solid build quality and looks even better in person.,5,2025-01-30
+R5117,P1167,C2074,Been using it for a few weeks now and no complaints at all.,5,2025-08-12
+R5118,P1145,C2296,"Great quality for the price, would buy again.",5,2025-11-16
+R5119,P1074,C2204,"Great quality for the price, would buy again.",5,2026-01-03
+R5120,P1144,C2123,"Great quality for the price, would buy again.",5,2026-02-17
+R5121,P1073,C2177,"Really happy with this purchase, works exactly as described.",4,2025-11-04
+R5122,P1175,C2238,Solid build quality and looks even better in person.,5,2025-11-20
+R5123,P1061,C2254,"Really happy with this purchase, works exactly as described.",5,2025-11-25
+R5124,P1119,C2002,Perfect fit and the material feels premium.,4,2026-02-28
+R5125,P1109,C2274,"Great quality for the price, would buy again.",4,2025-11-07
+R5126,P1028,C2262,"Exceeded my expectations, arrived quickly too.",5,2026-03-29
+R5127,P1020,C2117,"Great quality for the price, would buy again.",4,2025-11-07
+R5128,P1215,C2431,Been using it for a few weeks now and no complaints at all.,4,2025-11-04
+R5129,P1198,C2143,"Works fine so far, will update if anything changes.",3,2025-11-14
+R5130,P1132,C2223,Been using it for a few weeks now and no complaints at all.,5,2025-08-06
+R5131,P1034,C2111,"Average quality, matches the price point.",3,2025-09-24
+R5132,P1040,C2197,"It's decent, does the job but nothing special.",3,2025-08-30
+R5133,P1052,C2211,Been using it for a few weeks now and no complaints at all.,5,2025-08-26
+R5134,P1109,C2223,Solid build quality and looks even better in person.,5,2025-03-04
+R5135,P1096,C2374,Stopped working within a week of regular use.,1,2025-12-03
+R5136,P1010,C2043,Good enough for occasional use.,3,2026-02-09
+R5137,P1097,C2203,"Great quality for the price, would buy again.",4,2026-04-14
+R5138,P1054,C2208,"Great quality for the price, would buy again.",4,2026-03-23
+R5139,P1202,C2407,"Really happy with this purchase, works exactly as described.",5,2025-03-21
+R5140,P1129,C2379,Perfect fit and the material feels premium.,4,2025-06-25
+R5141,P1027,C2055,Packaging was poor and the item arrived slightly damaged.,1,2025-12-17
+R5142,P1207,C2292,"Really happy with this purchase, works exactly as described.",5,2025-08-24
+R5143,P1103,C2195,Doesn't match the photos on the website at all.,2,2026-03-04
+R5144,P1163,C2175,Solid build quality and looks even better in person.,5,2026-04-29
+R5145,P1168,C2381,Perfect fit and the material feels premium.,5,2026-03-03
+R5146,P1112,C2303,Been using it for a few weeks now and no complaints at all.,4,2026-03-19
+R5147,P1015,C2343,Doesn't match the photos on the website at all.,2,2025-07-05
+R5148,P1125,C2077,"Not bad, but I expected slightly better finishing.",3,2026-05-28
+R5149,P1197,C2356,"Great quality for the price, would buy again.",5,2025-09-04
+R5150,P1010,C2307,"Average quality, matches the price point.",3,2026-06-30
+R5151,P1048,C2290,Perfect fit and the material feels premium.,5,2025-12-08
+R5152,P1177,C2004,"Exceeded my expectations, arrived quickly too.",5,2026-05-17
+R5153,P1094,C2190,"Really happy with this purchase, works exactly as described.",4,2025-11-01
+R5154,P1077,C2259,Been using it for a few weeks now and no complaints at all.,5,2025-07-11
+R5155,P1038,C2065,Perfect fit and the material feels premium.,5,2026-02-05
+R5156,P1215,C2164,"Average quality, matches the price point.",3,2025-07-20
+R5157,P1125,C2428,Doesn't match the photos on the website at all.,1,2026-04-30
+R5158,P1215,C2065,"Not bad, but I expected slightly better finishing.",3,2025-01-31
+R5159,P1166,C2089,Perfect fit and the material feels premium.,5,2025-10-25
+R5160,P1147,C2040,"Average quality, matches the price point.",3,2025-06-10
+R5161,P1022,C2346,"Great quality for the price, would buy again.",5,2026-02-28
+R5162,P1029,C2202,Perfect fit and the material feels premium.,4,2026-06-21
+R5163,P1112,C2303,"Works fine so far, will update if anything changes.",3,2026-03-08
+R5164,P1099,C2328,Perfect fit and the material feels premium.,5,2025-03-13
+R5165,P1060,C2025,"Average quality, matches the price point.",3,2025-03-02
+R5166,P1013,C2340,Been using it for a few weeks now and no complaints at all.,4,2026-02-19
+R5167,P1175,C2093,"Really happy with this purchase, works exactly as described.",4,2025-04-23
+R5168,P1163,C2229,"Great quality for the price, would buy again.",5,2026-05-23
+R5169,P1079,C2059,"Disappointed with the quality, expected better for this price.",1,2025-09-06
+R5170,P1164,C2370,Been using it for a few weeks now and no complaints at all.,4,2025-04-28
+R5171,P1175,C2238,"Great quality for the price, would buy again.",4,2025-11-20
+R5172,P1003,C2445,"Great quality for the price, would buy again.",4,2026-05-15
+R5173,P1117,C2395,Perfect fit and the material feels premium.,4,2026-06-03
+R5174,P1129,C2292,"Not bad, but I expected slightly better finishing.",3,2025-09-13
+R5175,P1145,C2090,Solid build quality and looks even better in person.,5,2026-06-25
+R5176,P1079,C2329,Good enough for occasional use.,3,2026-05-04
+R5177,P1143,C2184,"Great quality for the price, would buy again.",5,2026-03-11
+R5178,P1090,C2326,"Exceeded my expectations, arrived quickly too.",5,2025-08-02
+R5179,P1222,C2354,Been using it for a few weeks now and no complaints at all.,5,2025-11-24
+R5180,P1073,C2156,"Really happy with this purchase, works exactly as described.",4,2026-06-08
+R5181,P1154,C2236,"Exceeded my expectations, arrived quickly too.",4,2025-12-01
+R5182,P1175,C2238,"It's decent, does the job but nothing special.",3,2025-11-02
+R5183,P1010,C2000,"Average quality, matches the price point.",3,2025-10-18
+R5184,P1164,C2292,"Exceeded my expectations, arrived quickly too.",4,2025-03-05
+R5185,P1016,C2192,"Great quality for the price, would buy again.",5,2025-12-26
+R5186,P1222,C2296,Doesn't match the photos on the website at all.,2,2026-05-14
+R5187,P1198,C2111,"Great quality for the price, would buy again.",5,2025-05-26
+R5188,P1214,C2264,"It's decent, does the job but nothing special.",3,2025-04-25
+R5189,P1108,C2196,"Really happy with this purchase, works exactly as described.",5,2025-09-23
+R5190,P1213,C2383,Solid build quality and looks even better in person.,4,2025-11-14
+R5191,P1036,C2125,"Really happy with this purchase, works exactly as described.",5,2025-08-18
+R5192,P1163,C2229,"Great quality for the price, would buy again.",4,2026-05-24
+R5193,P1181,C2323,Good enough for occasional use.,3,2025-06-24
+R5194,P1067,C2032,"Really happy with this purchase, works exactly as described.",4,2025-01-19
+R5195,P1122,C2233,Good enough for occasional use.,3,2025-07-08
+R5196,P1129,C2248,"It's decent, does the job but nothing special.",3,2025-05-24
+R5197,P1137,C2049,"It's decent, does the job but nothing special.",3,2026-04-14
+R5198,P1125,C2207,Been using it for a few weeks now and no complaints at all.,4,2025-06-25
+R5199,P1074,C2407,"Really happy with this purchase, works exactly as described.",4,2025-05-26
+R5200,P1073,C2177,Perfect fit and the material feels premium.,4,2025-11-16
+R5201,P1114,C2276,Solid build quality and looks even better in person.,4,2025-02-23
+R5202,P1016,C2102,Good enough for occasional use.,3,2025-08-01
+R5203,P1055,C2027,"Really happy with this purchase, works exactly as described.",4,2026-03-31
+R5204,P1176,C2382,"Exceeded my expectations, arrived quickly too.",5,2026-05-11
+R5205,P1116,C2440,"Great quality for the price, would buy again.",5,2025-08-23
+R5206,P1181,C2083,"Works fine so far, will update if anything changes.",3,2025-05-29
+R5207,P1176,C2061,Solid build quality and looks even better in person.,4,2025-06-18
+R5208,P1065,C2114,"Really happy with this purchase, works exactly as described.",5,2025-12-09
+R5209,P1073,C2177,Solid build quality and looks even better in person.,5,2025-11-11
+R5210,P1111,C2134,"Great quality for the price, would buy again.",4,2025-09-23
+R5211,P1204,C2200,"Really happy with this purchase, works exactly as described.",4,2025-11-21
+R5212,P1080,C2239,Solid build quality and looks even better in person.,4,2025-08-11
+R5213,P1216,C2184,"Exceeded my expectations, arrived quickly too.",4,2025-11-18
+R5214,P1184,C2276,"Exceeded my expectations, arrived quickly too.",5,2025-09-24
+R5215,P1054,C2247,Stopped working within a week of regular use.,1,2025-12-25
+R5216,P1134,C2160,"Exceeded my expectations, arrived quickly too.",4,2026-01-23
+R5217,P1110,C2410,Good enough for occasional use.,3,2026-03-20
+R5218,P1216,C2070,Solid build quality and looks even better in person.,4,2025-08-30
+R5219,P1161,C2302,Stopped working within a week of regular use.,1,2025-07-06
+R5220,P1008,C2215,Solid build quality and looks even better in person.,5,2026-01-08
+R5221,P1015,C2416,"Great quality for the price, would buy again.",5,2025-05-14
+R5222,P1104,C2206,Perfect fit and the material feels premium.,5,2025-01-20
+R5223,P1182,C2326,Perfect fit and the material feels premium.,4,2025-05-09
+R5224,P1079,C2090,Been using it for a few weeks now and no complaints at all.,5,2025-03-20
+R5225,P1049,C2033,Solid build quality and looks even better in person.,5,2026-04-19
+R5226,P1108,C2060,Been using it for a few weeks now and no complaints at all.,5,2026-06-12
+R5227,P1099,C2058,Been using it for a few weeks now and no complaints at all.,5,2025-10-20
+R5228,P1078,C2130,Perfect fit and the material feels premium.,5,2025-09-07
+R5229,P1017,C2022,Doesn't match the photos on the website at all.,2,2025-01-29
+R5230,P1051,C2292,Doesn't match the photos on the website at all.,1,2026-06-30
+R5231,P1097,C2075,Solid build quality and looks even better in person.,5,2026-03-24
+R5232,P1129,C2052,Solid build quality and looks even better in person.,4,2026-06-06
+R5233,P1126,C2335,Perfect fit and the material feels premium.,4,2025-04-09
+R5234,P1221,C2073,"Great quality for the price, would buy again.",5,2025-10-17
+R5235,P1220,C2109,Been using it for a few weeks now and no complaints at all.,5,2025-09-16
+R5236,P1025,C2265,"Really happy with this purchase, works exactly as described.",4,2025-09-19
+R5237,P1139,C2316,Solid build quality and looks even better in person.,4,2025-03-08
+R5238,P1013,C2432,"Really happy with this purchase, works exactly as described.",5,2025-11-17
+R5239,P1157,C2089,"It's decent, does the job but nothing special.",3,2025-07-16
+R5240,P1012,C2269,Perfect fit and the material feels premium.,4,2025-03-08
+R5241,P1109,C2274,"Really happy with this purchase, works exactly as described.",4,2025-10-26
+R5242,P1134,C2415,"Disappointed with the quality, expected better for this price.",2,2025-05-11
+R5243,P1162,C2311,Solid build quality and looks even better in person.,4,2025-07-11
+R5244,P1084,C2402,Packaging was poor and the item arrived slightly damaged.,1,2026-06-30
+R5245,P1003,C2223,Been using it for a few weeks now and no complaints at all.,5,2025-06-10
+R5246,P1013,C2323,"Disappointed with the quality, expected better for this price.",2,2025-07-24
+R5247,P1029,C2202,"Exceeded my expectations, arrived quickly too.",4,2026-06-22
+R5248,P1114,C2324,Solid build quality and looks even better in person.,5,2025-03-02
+R5249,P1193,C2382,Sizing was off compared to the size chart.,2,2025-03-13
+R5250,P1206,C2104,"Exceeded my expectations, arrived quickly too.",5,2026-02-09
+R5251,P1116,C2063,Good enough for occasional use.,3,2025-12-05
+R5252,P1083,C2414,"Really happy with this purchase, works exactly as described.",5,2025-07-28
+R5253,P1015,C2301,"Really happy with this purchase, works exactly as described.",5,2026-01-29
+R5254,P1031,C2389,Perfect fit and the material feels premium.,5,2025-08-01
+R5255,P1003,C2158,"Exceeded my expectations, arrived quickly too.",4,2025-10-27
+R5256,P1072,C2091,"Really happy with this purchase, works exactly as described.",5,2025-12-03
+R5257,P1100,C2152,Perfect fit and the material feels premium.,5,2025-06-25
+R5258,P1129,C2292,Solid build quality and looks even better in person.,4,2025-08-27
+R5259,P1110,C2324,Packaging was poor and the item arrived slightly damaged.,2,2026-06-03
+R5260,P1017,C2214,Been using it for a few weeks now and no complaints at all.,5,2026-05-20
+R5261,P1087,C2402,Solid build quality and looks even better in person.,5,2025-03-06
+R5262,P1059,C2428,Been using it for a few weeks now and no complaints at all.,5,2025-12-03
+R5263,P1031,C2389,"Not bad, but I expected slightly better finishing.",3,2025-08-01
+R5264,P1090,C2248,"Great quality for the price, would buy again.",5,2026-04-11
+R5265,P1022,C2035,"Really happy with this purchase, works exactly as described.",5,2026-02-28
+R5266,P1071,C2159,"Really happy with this purchase, works exactly as described.",4,2025-05-25
+R5267,P1117,C2049,"Really happy with this purchase, works exactly as described.",5,2026-05-01
+R5268,P1169,C2091,"Really happy with this purchase, works exactly as described.",4,2025-02-17
+R5269,P1038,C2189,Solid build quality and looks even better in person.,5,2026-01-02
+R5270,P1029,C2209,Doesn't match the photos on the website at all.,1,2025-11-23
+R5271,P1102,C2093,Sizing was off compared to the size chart.,2,2026-06-18
+R5272,P1026,C2085,Perfect fit and the material feels premium.,4,2025-06-14
+R5273,P1113,C2412,"Great quality for the price, would buy again.",4,2025-02-17
+R5274,P1040,C2197,Solid build quality and looks even better in person.,5,2025-08-22
+R5275,P1047,C2164,Sizing was off compared to the size chart.,2,2025-01-10
+R5276,P1154,C2127,Perfect fit and the material feels premium.,5,2025-07-17
+R5277,P1042,C2435,Solid build quality and looks even better in person.,5,2025-09-21
+R5278,P1147,C2298,Been using it for a few weeks now and no complaints at all.,4,2026-03-29
+R5279,P1181,C2242,"It's decent, does the job but nothing special.",3,2025-04-27
+R5280,P1150,C2114,Solid build quality and looks even better in person.,4,2025-12-20
+R5281,P1206,C2205,"Great quality for the price, would buy again.",5,2025-04-11
+R5282,P1043,C2253,Been using it for a few weeks now and no complaints at all.,4,2026-05-27
+R5283,P1150,C2114,Perfect fit and the material feels premium.,4,2025-12-21
+R5284,P1038,C2348,Solid build quality and looks even better in person.,5,2025-06-20
+R5285,P1028,C2140,Solid build quality and looks even better in person.,4,2025-06-20
+R5286,P1156,C2302,"Average quality, matches the price point.",3,2025-02-23
+R5287,P1151,C2206,Good enough for occasional use.,3,2026-02-12
+R5288,P1198,C2130,"It's decent, does the job but nothing special.",3,2025-12-29
+R5289,P1054,C2257,Been using it for a few weeks now and no complaints at all.,5,2026-06-30
+R5290,P1146,C2209,Stopped working within a week of regular use.,1,2026-04-27
+R5291,P1206,C2290,"Great quality for the price, would buy again.",5,2026-03-23
+R5292,P1200,C2270,Solid build quality and looks even better in person.,4,2026-03-28
+R5293,P1222,C2026,Been using it for a few weeks now and no complaints at all.,4,2025-05-19
+R5294,P1139,C2168,"Disappointed with the quality, expected better for this price.",2,2025-01-20
+R5295,P1198,C2111,"Not bad, but I expected slightly better finishing.",3,2025-05-28
+R5296,P1089,C2295,"Really happy with this purchase, works exactly as described.",4,2026-03-05
+R5297,P1022,C2069,Solid build quality and looks even better in person.,4,2026-03-31
+R5298,P1054,C2208,"Great quality for the price, would buy again.",4,2026-03-30
+R5299,P1176,C2298,Solid build quality and looks even better in person.,4,2025-04-02
+R5300,P1067,C2065,"Really happy with this purchase, works exactly as described.",5,2025-08-31
+R5301,P1145,C2090,"Exceeded my expectations, arrived quickly too.",5,2026-06-30
+R5302,P1077,C2357,"Great quality for the price, would buy again.",5,2026-01-07
+R5303,P1106,C2211,Packaging was poor and the item arrived slightly damaged.,2,2025-10-24
+R5304,P1205,C2131,Perfect fit and the material feels premium.,5,2025-09-16
+R5305,P1006,C2136,"Exceeded my expectations, arrived quickly too.",5,2025-02-10
+R5306,P1175,C2234,"Really happy with this purchase, works exactly as described.",4,2025-02-14
+R5307,P1203,C2380,"Not worth the money, wouldn't recommend.",2,2026-06-30
+R5308,P1138,C2442,"Really happy with this purchase, works exactly as described.",5,2026-05-03
+R5309,P1077,C2360,Solid build quality and looks even better in person.,4,2026-05-04
+R5310,P1076,C2042,Packaging was poor and the item arrived slightly damaged.,1,2026-06-30
+R5311,P1204,C2237,Solid build quality and looks even better in person.,5,2025-05-03
+R5312,P1083,C2414,Perfect fit and the material feels premium.,4,2025-07-31
+R5313,P1065,C2434,Perfect fit and the material feels premium.,5,2026-01-10
+R5314,P1005,C2377,Packaging was poor and the item arrived slightly damaged.,2,2025-11-28
+R5315,P1033,C2438,Perfect fit and the material feels premium.,4,2025-04-28
+R5316,P1191,C2154,Been using it for a few weeks now and no complaints at all.,5,2025-11-01
+R5317,P1059,C2035,"Exceeded my expectations, arrived quickly too.",4,2025-05-27
+R5318,P1118,C2409,"Great quality for the price, would buy again.",5,2025-05-07
+R5319,P1007,C2413,Been using it for a few weeks now and no complaints at all.,5,2025-12-18
+R5320,P1099,C2035,"Great quality for the price, would buy again.",5,2025-09-25
+R5321,P1062,C2233,Solid build quality and looks even better in person.,5,2026-01-28
+R5322,P1156,C2181,Perfect fit and the material feels premium.,5,2025-03-12
+R5323,P1176,C2061,"Great quality for the price, would buy again.",5,2025-06-18
+R5324,P1170,C2118,Perfect fit and the material feels premium.,4,2025-06-01
+R5325,P1183,C2052,Been using it for a few weeks now and no complaints at all.,5,2025-07-08
+R5326,P1091,C2164,Been using it for a few weeks now and no complaints at all.,5,2026-06-19
+R5327,P1060,C2272,"Not worth the money, wouldn't recommend.",1,2026-02-16
+R5328,P1202,C2219,Been using it for a few weeks now and no complaints at all.,4,2025-06-27
+R5329,P1157,C2070,"Great quality for the price, would buy again.",5,2025-04-16
+R5330,P1189,C2331,Solid build quality and looks even better in person.,4,2025-04-08
+R5331,P1144,C2164,Been using it for a few weeks now and no complaints at all.,4,2026-02-20
+R5332,P1176,C2349,"Exceeded my expectations, arrived quickly too.",4,2026-05-31
+R5333,P1071,C2044,Solid build quality and looks even better in person.,4,2026-01-26
+R5334,P1184,C2283,"It's decent, does the job but nothing special.",3,2025-09-28
+R5335,P1196,C2109,"Exceeded my expectations, arrived quickly too.",5,2025-07-15
+R5336,P1003,C2158,Been using it for a few weeks now and no complaints at all.,5,2025-11-07
+R5337,P1046,C2236,Solid build quality and looks even better in person.,5,2026-02-16
+R5338,P1093,C2382,Good enough for occasional use.,3,2025-11-09
+R5339,P1221,C2413,Solid build quality and looks even better in person.,5,2026-03-24
+R5340,P1112,C2438,"Great quality for the price, would buy again.",4,2025-08-25
+R5341,P1118,C2256,"Really happy with this purchase, works exactly as described.",4,2025-01-27
+R5342,P1021,C2189,Been using it for a few weeks now and no complaints at all.,4,2026-02-18
+R5343,P1024,C2178,"It's decent, does the job but nothing special.",3,2025-11-13
+R5344,P1101,C2124,"Disappointed with the quality, expected better for this price.",1,2026-03-30
+R5345,P1187,C2113,"It's decent, does the job but nothing special.",3,2025-06-23
+R5346,P1067,C2292,Doesn't match the photos on the website at all.,2,2026-06-27
+R5347,P1022,C2303,Been using it for a few weeks now and no complaints at all.,4,2025-03-31
+R5348,P1075,C2448,Been using it for a few weeks now and no complaints at all.,5,2026-05-31
+R5349,P1067,C2258,Been using it for a few weeks now and no complaints at all.,4,2025-02-09
+R5350,P1196,C2250,Stopped working within a week of regular use.,2,2025-04-22
+R5351,P1188,C2051,Been using it for a few weeks now and no complaints at all.,4,2025-07-22
+R5352,P1194,C2297,"Not bad, but I expected slightly better finishing.",3,2025-01-12
+R5353,P1099,C2310,"Average quality, matches the price point.",3,2026-01-27
+R5354,P1135,C2089,Solid build quality and looks even better in person.,4,2025-12-02
+R5355,P1048,C2115,"Great quality for the price, would buy again.",5,2025-01-19
+R5356,P1011,C2270,"Works fine so far, will update if anything changes.",3,2025-11-24
+R5357,P1148,C2335,Solid build quality and looks even better in person.,5,2025-11-12
+R5358,P1115,C2434,"Really happy with this purchase, works exactly as described.",4,2025-04-16
+R5359,P1046,C2395,Stopped working within a week of regular use.,1,2026-04-27
+R5360,P1063,C2123,Solid build quality and looks even better in person.,5,2025-04-05
+R5361,P1063,C2334,"Great quality for the price, would buy again.",5,2025-10-25
+R5362,P1011,C2270,Been using it for a few weeks now and no complaints at all.,4,2025-01-30
+R5363,P1175,C2062,"Not bad, but I expected slightly better finishing.",3,2026-06-14
+R5364,P1148,C2194,Been using it for a few weeks now and no complaints at all.,5,2025-11-24
+R5365,P1181,C2323,"It's decent, does the job but nothing special.",3,2025-06-23
+R5366,P1144,C2387,Stopped working within a week of regular use.,2,2026-03-12
+R5367,P1166,C2356,"Exceeded my expectations, arrived quickly too.",4,2026-01-31
+R5368,P1020,C2126,Perfect fit and the material feels premium.,4,2026-06-30
+R5369,P1074,C2360,Solid build quality and looks even better in person.,4,2025-02-14
+R5370,P1037,C2071,"Great quality for the price, would buy again.",5,2025-07-07
+R5371,P1104,C2327,"It's decent, does the job but nothing special.",3,2026-06-09
+R5372,P1170,C2126,Solid build quality and looks even better in person.,4,2025-07-03
+R5373,P1119,C2002,Solid build quality and looks even better in person.,4,2026-03-05
+R5374,P1170,C2017,"Exceeded my expectations, arrived quickly too.",4,2025-12-10
+R5375,P1020,C2213,"Exceeded my expectations, arrived quickly too.",4,2026-06-13
+R5376,P1099,C2246,Been using it for a few weeks now and no complaints at all.,4,2025-08-25
+R5377,P1194,C2027,Stopped working within a week of regular use.,2,2025-06-08
+R5378,P1081,C2350,"Exceeded my expectations, arrived quickly too.",5,2025-03-01
+R5379,P1044,C2144,"Average quality, matches the price point.",3,2025-01-10
+R5380,P1024,C2222,"Really happy with this purchase, works exactly as described.",5,2025-07-15
+R5381,P1009,C2276,Doesn't match the photos on the website at all.,2,2026-02-25
+R5382,P1040,C2256,Solid build quality and looks even better in person.,4,2026-05-22
+R5383,P1174,C2234,"Exceeded my expectations, arrived quickly too.",4,2025-06-10
+R5384,P1015,C2200,"It's decent, does the job but nothing special.",3,2025-11-26
+R5385,P1188,C2347,Perfect fit and the material feels premium.,5,2026-05-15
+R5386,P1219,C2077,Solid build quality and looks even better in person.,5,2026-06-20
+R5387,P1127,C2392,"Average quality, matches the price point.",3,2025-08-17
+R5388,P1046,C2395,"Disappointed with the quality, expected better for this price.",1,2026-04-12
+R5389,P1100,C2195,Sizing was off compared to the size chart.,2,2025-03-23
+R5390,P1124,C2406,Stopped working within a week of regular use.,2,2026-02-15
+R5391,P1045,C2007,"Really happy with this purchase, works exactly as described.",4,2025-11-24
+R5392,P1136,C2409,Been using it for a few weeks now and no complaints at all.,5,2026-01-16
+R5393,P1034,C2057,"Really happy with this purchase, works exactly as described.",5,2025-03-17
+R5394,P1022,C2185,Sizing was off compared to the size chart.,1,2026-02-05
+R5395,P1013,C2322,Been using it for a few weeks now and no complaints at all.,4,2026-04-25
+R5396,P1080,C2239,"Exceeded my expectations, arrived quickly too.",5,2025-08-08
+R5397,P1137,C2326,Perfect fit and the material feels premium.,4,2026-03-27
+R5398,P1026,C2085,Perfect fit and the material feels premium.,4,2025-06-30
+R5399,P1096,C2394,Good enough for occasional use.,3,2026-06-12
+R5400,P1220,C2109,Been using it for a few weeks now and no complaints at all.,4,2025-09-16
+R5401,P1206,C2025,Solid build quality and looks even better in person.,5,2025-03-09
+R5402,P1063,C2334,Been using it for a few weeks now and no complaints at all.,5,2025-10-18
+R5403,P1034,C2032,"Exceeded my expectations, arrived quickly too.",5,2025-04-01
+R5404,P1208,C2330,Perfect fit and the material feels premium.,5,2025-11-07
+R5405,P1214,C2168,Solid build quality and looks even better in person.,5,2026-02-12
+R5406,P1069,C2354,"Great quality for the price, would buy again.",5,2025-07-23
+R5407,P1081,C2350,Been using it for a few weeks now and no complaints at all.,4,2025-03-11
+R5408,P1207,C2120,Good enough for occasional use.,3,2025-09-12
+R5409,P1209,C2086,"Really happy with this purchase, works exactly as described.",4,2025-04-23
+R5410,P1166,C2449,"Disappointed with the quality, expected better for this price.",1,2026-06-30
+R5411,P1220,C2413,"Great quality for the price, would buy again.",5,2025-06-26
+R5412,P1145,C2134,Perfect fit and the material feels premium.,5,2026-06-26
+R5413,P1165,C2398,Solid build quality and looks even better in person.,5,2026-04-23
+R5414,P1145,C2314,"Average quality, matches the price point.",3,2026-06-11
+R5415,P1072,C2126,Solid build quality and looks even better in person.,4,2025-06-23
+R5416,P1154,C2016,"Great quality for the price, would buy again.",4,2025-03-22
+R5417,P1189,C2311,"Really happy with this purchase, works exactly as described.",4,2025-11-27
+R5418,P1138,C2442,"Really happy with this purchase, works exactly as described.",5,2026-05-01
+R5419,P1043,C2216,Good enough for occasional use.,3,2025-10-01
+R5420,P1107,C2403,"Really happy with this purchase, works exactly as described.",5,2025-10-25
+R5421,P1170,C2409,Been using it for a few weeks now and no complaints at all.,4,2025-11-19
+R5422,P1060,C2223,Good enough for occasional use.,3,2025-05-15
+R5423,P1159,C2091,"Exceeded my expectations, arrived quickly too.",4,2026-05-03
+R5424,P1048,C2115,"It's decent, does the job but nothing special.",3,2025-01-15
+R5425,P1002,C2006,"Really happy with this purchase, works exactly as described.",5,2025-11-13
+R5426,P1135,C2448,Been using it for a few weeks now and no complaints at all.,4,2026-01-07
+R5427,P1043,C2253,"Exceeded my expectations, arrived quickly too.",4,2026-06-16
+R5428,P1063,C2361,Been using it for a few weeks now and no complaints at all.,4,2025-04-22
+R5429,P1216,C2436,Been using it for a few weeks now and no complaints at all.,4,2026-05-16
+R5430,P1086,C2156,Solid build quality and looks even better in person.,5,2025-06-26
+R5431,P1103,C2216,Packaging was poor and the item arrived slightly damaged.,1,2025-05-07
+R5432,P1188,C2142,"Great quality for the price, would buy again.",5,2026-01-27
+R5433,P1028,C2319,"Not worth the money, wouldn't recommend.",1,2025-07-07
+R5434,P1100,C2089,Doesn't match the photos on the website at all.,2,2025-06-21
+R5435,P1145,C2314,"Great quality for the price, would buy again.",5,2026-05-30
+R5436,P1004,C2413,Solid build quality and looks even better in person.,4,2025-05-22
+R5437,P1099,C2058,"It's decent, does the job but nothing special.",3,2025-10-24
+R5438,P1108,C2166,"Great quality for the price, would buy again.",4,2025-12-16
+R5439,P1074,C2098,Been using it for a few weeks now and no complaints at all.,4,2025-12-04
+R5440,P1038,C2176,"Disappointed with the quality, expected better for this price.",1,2025-06-24
+R5441,P1051,C2308,Sizing was off compared to the size chart.,1,2025-08-15
+R5442,P1203,C2380,Stopped working within a week of regular use.,1,2026-06-30
+R5443,P1027,C2071,Good enough for occasional use.,3,2026-04-20
+R5444,P1191,C2154,"Exceeded my expectations, arrived quickly too.",5,2025-11-08
+R5445,P1222,C2255,"Exceeded my expectations, arrived quickly too.",5,2026-03-14
+R5446,P1142,C2391,"Not worth the money, wouldn't recommend.",2,2026-05-10
+R5447,P1196,C2324,Been using it for a few weeks now and no complaints at all.,5,2026-06-06
+R5448,P1114,C2013,Perfect fit and the material feels premium.,5,2025-08-23
+R5449,P1064,C2049,Been using it for a few weeks now and no complaints at all.,5,2026-05-28
+R5450,P1221,C2264,"Really happy with this purchase, works exactly as described.",4,2026-06-12
+R5451,P1006,C2274,Been using it for a few weeks now and no complaints at all.,4,2025-06-18
+R5452,P1159,C2231,Solid build quality and looks even better in person.,5,2026-02-18
+R5453,P1044,C2107,Doesn't match the photos on the website at all.,1,2025-09-01
+R5454,P1061,C2254,"Great quality for the price, would buy again.",5,2025-11-16
+R5455,P1082,C2033,"Really happy with this purchase, works exactly as described.",5,2026-06-07
+R5456,P1216,C2070,Solid build quality and looks even better in person.,5,2025-09-20
+R5457,P1221,C2092,Doesn't match the photos on the website at all.,1,2025-07-16
+R5458,P1094,C2190,Been using it for a few weeks now and no complaints at all.,4,2025-11-01
+R5459,P1167,C2312,"Works fine so far, will update if anything changes.",3,2025-03-20
+R5460,P1095,C2222,Solid build quality and looks even better in person.,4,2026-05-13
+R5461,P1064,C2347,"Disappointed with the quality, expected better for this price.",2,2025-05-14
+R5462,P1002,C2097,"Average quality, matches the price point.",3,2026-06-15
+R5463,P1082,C2140,Solid build quality and looks even better in person.,5,2026-03-07
+R5464,P1082,C2251,Stopped working within a week of regular use.,1,2026-06-20
+R5465,P1206,C2205,"Great quality for the price, would buy again.",5,2025-04-18
+R5466,P1079,C2090,Been using it for a few weeks now and no complaints at all.,5,2025-03-28
+R5467,P1137,C2264,"It's decent, does the job but nothing special.",3,2026-06-11
+R5468,P1077,C2271,Solid build quality and looks even better in person.,4,2025-06-22
+R5469,P1002,C2407,Perfect fit and the material feels premium.,5,2025-08-05
+R5470,P1004,C2058,"Really happy with this purchase, works exactly as described.",5,2026-06-29
+R5471,P1097,C2066,"Works fine so far, will update if anything changes.",3,2025-08-07
+R5472,P1033,C2104,"Not worth the money, wouldn't recommend.",2,2025-08-12
+R5473,P1011,C2432,"Really happy with this purchase, works exactly as described.",5,2025-12-31
+R5474,P1100,C2152,"Really happy with this purchase, works exactly as described.",4,2025-06-16
+R5475,P1038,C2100,"Not bad, but I expected slightly better finishing.",3,2025-06-06
+R5476,P1159,C2048,Solid build quality and looks even better in person.,5,2026-06-30
+R5477,P1116,C2063,Packaging was poor and the item arrived slightly damaged.,1,2025-12-13
+R5478,P1024,C2222,"Really happy with this purchase, works exactly as described.",5,2025-08-02
+R5479,P1121,C2051,"Really happy with this purchase, works exactly as described.",4,2026-02-25
+R5480,P1069,C2406,"Great quality for the price, would buy again.",5,2025-08-27
+R5481,P1099,C2068,Solid build quality and looks even better in person.,5,2025-11-19
+R5482,P1194,C2359,"Really happy with this purchase, works exactly as described.",5,2026-03-19
+R5483,P1184,C2247,Perfect fit and the material feels premium.,5,2026-05-19
+R5484,P1144,C2381,Been using it for a few weeks now and no complaints at all.,4,2025-04-02
+R5485,P1165,C2338,Solid build quality and looks even better in person.,5,2025-03-17
+R5486,P1035,C2321,"Exceeded my expectations, arrived quickly too.",5,2025-03-20
+R5487,P1103,C2195,Sizing was off compared to the size chart.,1,2026-03-04
+R5488,P1035,C2354,"Really happy with this purchase, works exactly as described.",4,2025-09-14
+R5489,P1185,C2382,"Great quality for the price, would buy again.",5,2025-05-25
+R5490,P1123,C2037,"It's decent, does the job but nothing special.",3,2025-06-23
+R5491,P1103,C2105,Packaging was poor and the item arrived slightly damaged.,2,2025-01-17
+R5492,P1091,C2096,Solid build quality and looks even better in person.,4,2025-03-01
+R5493,P1039,C2114,Perfect fit and the material feels premium.,5,2025-05-23
+R5494,P1001,C2195,"Not worth the money, wouldn't recommend.",2,2026-02-10
+R5495,P1114,C2324,"Exceeded my expectations, arrived quickly too.",5,2025-02-11
+R5496,P1016,C2192,"Really happy with this purchase, works exactly as described.",4,2025-12-12
+R5497,P1116,C2150,"Exceeded my expectations, arrived quickly too.",5,2025-06-06
+R5498,P1045,C2007,Solid build quality and looks even better in person.,5,2025-12-05
+R5499,P1058,C2260,Doesn't match the photos on the website at all.,2,2026-05-24
+R5500,P1213,C2237,Perfect fit and the material feels premium.,5,2025-04-28
+R5501,P1181,C2242,Been using it for a few weeks now and no complaints at all.,5,2025-05-16
+R5502,P1099,C2068,"Great quality for the price, would buy again.",4,2025-11-08
+R5503,P1077,C2168,"Works fine so far, will update if anything changes.",3,2025-01-13
+R5504,P1096,C2394,"Great quality for the price, would buy again.",5,2026-06-24
+R5505,P1072,C2091,"Exceeded my expectations, arrived quickly too.",4,2025-11-29
+R5506,P1059,C2423,"Really happy with this purchase, works exactly as described.",4,2026-03-15
+R5507,P1146,C2209,"Not worth the money, wouldn't recommend.",2,2026-04-27
+R5508,P1166,C2039,"Really happy with this purchase, works exactly as described.",4,2026-06-02
+R5509,P1124,C2177,Packaging was poor and the item arrived slightly damaged.,2,2025-01-15
+R5510,P1128,C2207,"Not bad, but I expected slightly better finishing.",3,2026-04-26
+R5511,P1128,C2270,Been using it for a few weeks now and no complaints at all.,4,2025-08-22
+R5512,P1121,C2051,"Great quality for the price, would buy again.",5,2026-02-24
+R5513,P1138,C2232,Solid build quality and looks even better in person.,5,2025-09-13
+R5514,P1148,C2169,Been using it for a few weeks now and no complaints at all.,5,2025-11-07
+R5515,P1151,C2244,"Works fine so far, will update if anything changes.",3,2025-02-11
+R5516,P1082,C2087,"Really happy with this purchase, works exactly as described.",5,2026-02-21
+R5517,P1094,C2153,Been using it for a few weeks now and no complaints at all.,5,2025-07-27
+R5518,P1074,C2360,Been using it for a few weeks now and no complaints at all.,5,2025-02-21
+R5519,P1063,C2040,Perfect fit and the material feels premium.,4,2026-04-02
+R5520,P1014,C2305,Perfect fit and the material feels premium.,5,2025-11-26
+R5521,P1208,C2185,"Really happy with this purchase, works exactly as described.",4,2025-09-19
+R5522,P1122,C2362,Good enough for occasional use.,3,2025-07-19
+R5523,P1003,C2188,"It's decent, does the job but nothing special.",3,2025-03-31
+R5524,P1052,C2262,Been using it for a few weeks now and no complaints at all.,5,2026-02-18
+R5525,P1213,C2134,Perfect fit and the material feels premium.,5,2025-08-23
+R5526,P1193,C2251,Been using it for a few weeks now and no complaints at all.,5,2025-10-18
+R5527,P1150,C2355,Been using it for a few weeks now and no complaints at all.,4,2026-01-18
+R5528,P1121,C2298,Doesn't match the photos on the website at all.,2,2025-10-24
+R5529,P1122,C2042,Solid build quality and looks even better in person.,5,2025-03-12
+R5530,P1190,C2224,Been using it for a few weeks now and no complaints at all.,4,2025-03-07
+R5531,P1079,C2342,Good enough for occasional use.,3,2026-04-21
+R5532,P1132,C2223,Solid build quality and looks even better in person.,5,2026-01-05
+R5533,P1031,C2299,"Not worth the money, wouldn't recommend.",1,2025-10-02
+R5534,P1082,C2405,"Exceeded my expectations, arrived quickly too.",4,2025-06-10
+R5535,P1162,C2094,Solid build quality and looks even better in person.,4,2025-05-29
+R5536,P1001,C2195,"Disappointed with the quality, expected better for this price.",1,2026-02-28
+R5537,P1118,C2409,Been using it for a few weeks now and no complaints at all.,4,2025-05-19
+R5538,P1164,C2245,"Really happy with this purchase, works exactly as described.",5,2025-08-19
+R5539,P1070,C2316,"Really happy with this purchase, works exactly as described.",5,2025-01-19
+R5540,P1203,C2380,Doesn't match the photos on the website at all.,2,2026-06-28
+R5541,P1207,C2374,"Exceeded my expectations, arrived quickly too.",5,2025-03-28
+R5542,P1031,C2135,Been using it for a few weeks now and no complaints at all.,5,2025-04-14
+R5543,P1175,C2238,"Not bad, but I expected slightly better finishing.",3,2025-11-04
+R5544,P1013,C2290,"Really happy with this purchase, works exactly as described.",4,2025-07-01
+R5545,P1057,C2179,Stopped working within a week of regular use.,1,2025-10-05
+R5546,P1036,C2431,Been using it for a few weeks now and no complaints at all.,5,2026-06-25
+R5547,P1218,C2207,"Great quality for the price, would buy again.",5,2025-03-30
+R5548,P1026,C2116,Perfect fit and the material feels premium.,4,2026-01-24
+R5549,P1132,C2248,Perfect fit and the material feels premium.,4,2025-09-12
+R5550,P1215,C2221,Solid build quality and looks even better in person.,4,2026-06-30
+R5551,P1035,C2142,"Not bad, but I expected slightly better finishing.",3,2025-03-21
+R5552,P1155,C2068,"Great quality for the price, would buy again.",4,2026-01-25
+R5553,P1184,C2133,Been using it for a few weeks now and no complaints at all.,4,2025-02-20
+R5554,P1104,C2327,"Average quality, matches the price point.",3,2026-06-23
+R5555,P1200,C2023,Solid build quality and looks even better in person.,5,2026-06-03
+R5556,P1115,C2174,Perfect fit and the material feels premium.,4,2025-12-28
+R5557,P1009,C2258,"Really happy with this purchase, works exactly as described.",5,2026-02-25
+R5558,P1176,C2061,"Works fine so far, will update if anything changes.",3,2025-05-24
+R5559,P1150,C2114,Perfect fit and the material feels premium.,5,2025-12-14
+R5560,P1077,C2168,"Really happy with this purchase, works exactly as described.",5,2025-01-19
+R5561,P1047,C2043,"Disappointed with the quality, expected better for this price.",1,2026-03-05
+R5562,P1015,C2200,"Really happy with this purchase, works exactly as described.",5,2025-11-25
+R5563,P1042,C2076,Been using it for a few weeks now and no complaints at all.,4,2025-07-23
+R5564,P1190,C2224,"Really happy with this purchase, works exactly as described.",5,2025-03-06
+R5565,P1176,C2148,Perfect fit and the material feels premium.,5,2025-05-29
+R5566,P1137,C2326,Solid build quality and looks even better in person.,4,2026-04-02
+R5567,P1014,C2305,"Really happy with this purchase, works exactly as described.",5,2025-11-17
+R5568,P1150,C2114,"Great quality for the price, would buy again.",5,2025-12-26
+R5569,P1082,C2405,"Great quality for the price, would buy again.",5,2025-05-28
+R5570,P1022,C2281,"It's decent, does the job but nothing special.",3,2025-04-16
+R5571,P1036,C2030,"Works fine so far, will update if anything changes.",3,2025-11-26
+R5572,P1106,C2424,"Disappointed with the quality, expected better for this price.",1,2025-03-17
+R5573,P1203,C2303,"Really happy with this purchase, works exactly as described.",4,2025-06-09
+R5574,P1056,C2121,Been using it for a few weeks now and no complaints at all.,5,2026-05-25
+R5575,P1195,C2173,"Really happy with this purchase, works exactly as described.",4,2025-03-14
+R5576,P1051,C2101,"Really happy with this purchase, works exactly as described.",4,2025-08-21
+R5577,P1085,C2191,"Really happy with this purchase, works exactly as described.",4,2025-09-22
+R5578,P1214,C2315,Been using it for a few weeks now and no complaints at all.,4,2025-05-25
+R5579,P1063,C2334,"Really happy with this purchase, works exactly as described.",5,2025-10-29
+R5580,P1046,C2395,Packaging was poor and the item arrived slightly damaged.,2,2026-05-01
+R5581,P1015,C2215,Been using it for a few weeks now and no complaints at all.,5,2025-11-07
+R5582,P1188,C2056,Good enough for occasional use.,3,2026-02-13
+R5583,P1211,C2287,Solid build quality and looks even better in person.,4,2025-01-15
+R5584,P1121,C2056,Perfect fit and the material feels premium.,4,2025-03-21
+R5585,P1160,C2001,Packaging was poor and the item arrived slightly damaged.,1,2025-01-16
+R5586,P1143,C2184,"Really happy with this purchase, works exactly as described.",5,2026-03-20
+R5587,P1018,C2022,"Really happy with this purchase, works exactly as described.",4,2026-03-08
+R5588,P1125,C2428,Packaging was poor and the item arrived slightly damaged.,2,2026-05-18
+R5589,P1008,C2098,"Average quality, matches the price point.",3,2025-11-22
+R5590,P1154,C2110,Perfect fit and the material feels premium.,5,2025-02-09
+R5591,P1159,C2009,"Really happy with this purchase, works exactly as described.",5,2025-09-20
+R5592,P1171,C2334,"Great quality for the price, would buy again.",5,2026-03-12
+R5593,P1142,C2223,Solid build quality and looks even better in person.,5,2025-03-29
+R5594,P1201,C2032,"Exceeded my expectations, arrived quickly too.",5,2025-02-17
+R5595,P1161,C2390,"Great quality for the price, would buy again.",5,2025-04-04
+R5596,P1065,C2337,Solid build quality and looks even better in person.,4,2025-01-22
+R5597,P1063,C2361,"Great quality for the price, would buy again.",5,2025-05-08
+R5598,P1207,C2395,"Great quality for the price, would buy again.",4,2025-09-15
+R5599,P1145,C2134,Been using it for a few weeks now and no complaints at all.,4,2026-06-30
+R5600,P1020,C2213,"Really happy with this purchase, works exactly as described.",4,2026-06-20
+R5601,P1006,C2405,Been using it for a few weeks now and no complaints at all.,4,2026-01-06
+R5602,P1132,C2209,Solid build quality and looks even better in person.,5,2025-01-31
+R5603,P1157,C2089,Perfect fit and the material feels premium.,5,2025-07-11
+R5604,P1085,C2191,Perfect fit and the material feels premium.,4,2025-10-03
+R5605,P1054,C2169,"Great quality for the price, would buy again.",5,2025-08-12
+R5606,P1002,C2006,"Average quality, matches the price point.",3,2025-12-06
+R5607,P1170,C2420,Perfect fit and the material feels premium.,5,2025-06-25
+R5608,P1213,C2237,"Exceeded my expectations, arrived quickly too.",5,2025-04-09
+R5609,P1053,C2274,"Average quality, matches the price point.",3,2025-05-18
+R5610,P1001,C2203,"Really happy with this purchase, works exactly as described.",5,2025-11-04
+R5611,P1011,C2270,Solid build quality and looks even better in person.,4,2025-11-15
+R5612,P1161,C2192,"Really happy with this purchase, works exactly as described.",5,2025-07-19
+R5613,P1124,C2406,Sizing was off compared to the size chart.,1,2026-02-10
+R5614,P1006,C2353,"Exceeded my expectations, arrived quickly too.",5,2025-03-28
+R5615,P1120,C2141,Perfect fit and the material feels premium.,4,2025-06-12
+R5616,P1053,C2447,"Great quality for the price, would buy again.",4,2025-02-23
+R5617,P1053,C2075,Perfect fit and the material feels premium.,5,2025-04-24
+R5618,P1206,C2025,"Exceeded my expectations, arrived quickly too.",4,2025-03-05
+R5619,P1214,C2315,Solid build quality and looks even better in person.,4,2025-05-15
+R5620,P1112,C2401,"Disappointed with the quality, expected better for this price.",1,2026-01-12
+R5621,P1161,C2290,Stopped working within a week of regular use.,2,2025-04-26
+R5622,P1001,C2203,"Great quality for the price, would buy again.",5,2025-10-31
+R5623,P1093,C2315,"Really happy with this purchase, works exactly as described.",4,2026-02-27
+R5624,P1058,C2146,Sizing was off compared to the size chart.,1,2025-06-29
+R5625,P1096,C2156,Solid build quality and looks even better in person.,5,2026-05-22
+R5626,P1170,C2118,Solid build quality and looks even better in person.,5,2025-05-23
+R5627,P1073,C2013,"Great quality for the price, would buy again.",4,2025-05-22
+R5628,P1140,C2356,Stopped working within a week of regular use.,1,2026-03-23
+R5629,P1099,C2310,Been using it for a few weeks now and no complaints at all.,4,2026-01-16
+R5630,P1038,C2065,"Really happy with this purchase, works exactly as described.",5,2026-02-09
+R5631,P1175,C2216,"Exceeded my expectations, arrived quickly too.",4,2025-12-09
+R5632,P1222,C2026,Perfect fit and the material feels premium.,4,2025-05-15
+R5633,P1014,C2061,"Really happy with this purchase, works exactly as described.",5,2025-09-05
+R5634,P1019,C2397,"It's decent, does the job but nothing special.",3,2025-11-29
+R5635,P1210,C2347,"Great quality for the price, would buy again.",4,2025-09-22
+R5636,P1051,C2204,Been using it for a few weeks now and no complaints at all.,5,2026-02-15
+R5637,P1172,C2322,Perfect fit and the material feels premium.,5,2025-02-22
+R5638,P1114,C2037,"It's decent, does the job but nothing special.",3,2025-02-13
+R5639,P1222,C2354,Solid build quality and looks even better in person.,5,2025-11-16
+R5640,P1082,C2254,"Average quality, matches the price point.",3,2025-02-03
+R5641,P1092,C2295,Perfect fit and the material feels premium.,5,2026-04-10
+R5642,P1083,C2381,"Exceeded my expectations, arrived quickly too.",4,2026-05-20
+R5643,P1026,C2420,Perfect fit and the material feels premium.,5,2025-10-03
+R5644,P1023,C2356,Doesn't match the photos on the website at all.,2,2026-04-26
+R5645,P1103,C2340,Stopped working within a week of regular use.,2,2025-03-10
+R5646,P1113,C2317,Doesn't match the photos on the website at all.,1,2026-04-17
+R5647,P1110,C2277,Been using it for a few weeks now and no complaints at all.,5,2025-12-23
+R5648,P1216,C2062,Packaging was poor and the item arrived slightly damaged.,1,2025-04-19
+R5649,P1222,C2354,"Not bad, but I expected slightly better finishing.",3,2025-11-02
+R5650,P1080,C2376,"Really happy with this purchase, works exactly as described.",4,2026-04-09
+R5651,P1193,C2175,Perfect fit and the material feels premium.,4,2025-07-28
+R5652,P1154,C2425,Been using it for a few weeks now and no complaints at all.,5,2025-07-01
+R5653,P1091,C2096,"Average quality, matches the price point.",3,2025-03-04
+R5654,P1191,C2202,"Works fine so far, will update if anything changes.",3,2026-05-20
+R5655,P1185,C2382,"Exceeded my expectations, arrived quickly too.",4,2025-06-11
+R5656,P1052,C2096,"Average quality, matches the price point.",3,2026-04-20
+R5657,P1087,C2318,Been using it for a few weeks now and no complaints at all.,5,2026-04-30
+R5658,P1196,C2264,Been using it for a few weeks now and no complaints at all.,5,2025-10-26
+R5659,P1160,C2085,"Great quality for the price, would buy again.",5,2026-03-22
+R5660,P1133,C2418,Been using it for a few weeks now and no complaints at all.,5,2025-11-30
+R5661,P1097,C2300,Perfect fit and the material feels premium.,5,2025-03-02
+R5662,P1221,C2413,"Great quality for the price, would buy again.",5,2026-04-05
+R5663,P1032,C2357,"Really happy with this purchase, works exactly as described.",5,2025-07-19
+R5664,P1001,C2375,Been using it for a few weeks now and no complaints at all.,5,2026-06-11
+R5665,P1213,C2383,"Exceeded my expectations, arrived quickly too.",4,2025-11-02
+R5666,P1144,C2381,"Great quality for the price, would buy again.",5,2025-03-24
+R5667,P1118,C2101,Been using it for a few weeks now and no complaints at all.,5,2025-04-10
+R5668,P1198,C2111,"Great quality for the price, would buy again.",4,2025-06-19
+R5669,P1210,C2207,"Really happy with this purchase, works exactly as described.",4,2025-05-16
+R5670,P1101,C2312,"Great quality for the price, would buy again.",4,2026-05-28
+R5671,P1076,C2216,"Really happy with this purchase, works exactly as described.",4,2025-03-21
+R5672,P1063,C2040,"Great quality for the price, would buy again.",4,2026-03-07
+R5673,P1153,C2176,Perfect fit and the material feels premium.,5,2025-11-18
+R5674,P1047,C2164,Doesn't match the photos on the website at all.,2,2025-02-05
+R5675,P1101,C2124,"Not worth the money, wouldn't recommend.",1,2026-03-11
+R5676,P1125,C2428,"Disappointed with the quality, expected better for this price.",2,2026-04-28
+R5677,P1079,C2300,"Average quality, matches the price point.",3,2025-04-26
+R5678,P1006,C2405,"Average quality, matches the price point.",3,2025-12-28
+R5679,P1090,C2298,"Really happy with this purchase, works exactly as described.",4,2025-10-27
+R5680,P1122,C2362,"Great quality for the price, would buy again.",5,2025-07-20
+R5681,P1026,C2085,Been using it for a few weeks now and no complaints at all.,5,2025-07-02
+R5682,P1128,C2270,Been using it for a few weeks now and no complaints at all.,5,2025-08-22
+R5683,P1174,C2336,"Great quality for the price, would buy again.",5,2025-09-30
+R5684,P1167,C2222,Been using it for a few weeks now and no complaints at all.,5,2025-02-04
+R5685,P1123,C2037,Been using it for a few weeks now and no complaints at all.,4,2025-07-10
+R5686,P1124,C2217,"Exceeded my expectations, arrived quickly too.",4,2026-03-22
+R5687,P1082,C2251,"It's decent, does the job but nothing special.",3,2026-06-17
+R5688,P1003,C2140,Packaging was poor and the item arrived slightly damaged.,1,2025-09-02
+R5689,P1089,C2158,"Really happy with this purchase, works exactly as described.",5,2025-09-18
+R5690,P1007,C2092,"It's decent, does the job but nothing special.",3,2025-12-13
+R5691,P1058,C2165,"Disappointed with the quality, expected better for this price.",2,2025-03-03
+R5692,P1057,C2334,Perfect fit and the material feels premium.,4,2025-09-30
+R5693,P1046,C2395,Stopped working within a week of regular use.,2,2026-04-05
+R5694,P1215,C2235,"Great quality for the price, would buy again.",4,2025-03-26
+R5695,P1035,C2268,"Disappointed with the quality, expected better for this price.",1,2025-06-17
+R5696,P1030,C2016,"Really happy with this purchase, works exactly as described.",5,2025-07-20
+R5697,P1193,C2382,Doesn't match the photos on the website at all.,2,2025-03-07
+R5698,P1176,C2349,"Works fine so far, will update if anything changes.",3,2026-05-22
+R5699,P1071,C2040,"Average quality, matches the price point.",3,2025-11-22

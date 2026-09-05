@@ -1,0 +1,401 @@
+ticket_id,customer_id,order_id,message_text,channel,timestamp,resolution_status
+T7000,C2218,O10420,"I was charged twice for order O10420, please refund the extra charge.",email,2025-05-19 19:40:00,Open
+T7001,C2075,,Does this product come in a larger size? I'm considering ordering it.,email,2025-09-01 09:47:00,Resolved
+T7002,C2235,O11395,"I want to return my order O11395, the item doesn't fit properly.",phone-transcribed,2025-03-08 08:02:00,Resolved
+T7003,C2399,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2025-08-17 08:05:00,Resolved
+T7004,C2387,O11304,Can I change the delivery address for order O11304? It hasn't shipped yet.,chat,2025-10-18 15:51:00,Open
+T7005,C2401,,How do I use my loyalty points on my next purchase?,chat,2026-02-15 19:38:00,Open
+T7006,C2076,O10640,"My product from order O10640 stopped working, is it still under warranty?",email,2025-09-02 18:18:00,Resolved
+T7007,C2133,O10174,"I want to return my order O10174, the item doesn't fit properly.",email,2025-09-12 16:30:00,Resolved
+T7008,C2267,,How do I use my loyalty points on my next purchase?,chat,2025-04-24 16:39:00,Resolved
+T7009,C2160,O10960,"I lost my invoice, can I still claim warranty on order O10960?",email,2026-02-03 08:02:00,Resolved
+T7010,C2001,O10503,Is the running shoes compatible with international chargers?,chat,2026-06-10 09:23:00,Resolved
+T7011,C2140,O10307,My payment failed but the amount was deducted from my account. Order O10307 shows as unpaid.,chat,2025-01-23 11:26:00,Open
+T7012,C2137,O10466,My payment failed but the amount was deducted from my account. Order O10466 shows as unpaid.,chat,2025-04-28 13:19:00,Escalated
+T7013,C2401,O10085,Does this product come in a larger size? I'm considering ordering it.,email,2025-03-20 14:13:00,Resolved
+T7014,C2308,O11257,This is the third time I've contacted support about order O11257 and no one has resolved it. Extremely frustrated.,email,2025-08-01 20:39:00,Escalated
+T7015,C2438,,How do I use my loyalty points on my next purchase?,chat,2026-05-12 20:03:00,Escalated
+T7016,C2443,O10517,"I lost my invoice, can I still claim warranty on order O10517?",phone-transcribed,2025-07-20 19:00:00,Resolved
+T7017,C2375,O11318,I returned an item two weeks ago and still haven't received my refund. Order O11318.,email,2026-01-26 15:56:00,Escalated
+T7018,C2264,O10774,How do I initiate a return for O10774? It arrived damaged.,email,2026-03-18 14:17:00,Open
+T7019,C2344,O10289,Can you tell me the current status of order O10289? Tracking hasn't updated in 3 days.,email,2026-02-18 19:10:00,Resolved
+T7020,C2330,,Is the blender compatible with international chargers?,chat,2025-12-17 08:15:00,Resolved
+T7021,C2387,O10267,Can I change the delivery address for order O10267? It hasn't shipped yet.,email,2025-01-31 14:13:00,Open
+T7022,C2398,O10168,I returned an item two weeks ago and still haven't received my refund. Order O10168.,phone-transcribed,2025-08-09 12:40:00,Resolved
+T7023,C2181,O10765,My order O10765 shows delivered but I never received it.,phone-transcribed,2026-06-05 10:25:00,Escalated
+T7024,C2369,O11113,Is the smartwatch compatible with international chargers?,chat,2026-02-01 08:42:00,Open
+T7025,C2193,O10842,I returned an item two weeks ago and still haven't received my refund. Order O10842.,phone-transcribed,2025-05-27 17:52:00,Resolved
+T7026,C2011,O10462,My order O10462 shows delivered but I never received it.,chat,2026-02-24 19:32:00,Resolved
+T7027,C2425,O10679,I returned an item two weeks ago and still haven't received my refund. Order O10679.,chat,2025-11-10 08:43:00,Resolved
+T7028,C2019,O11406,I returned an item two weeks ago and still haven't received my refund. Order O11406.,phone-transcribed,2025-03-29 11:13:00,Escalated
+T7029,C2106,O10727,My order O10727 shows delivered but I never received it.,email,2025-05-14 17:20:00,Escalated
+T7030,C2062,O11491,"I lost my invoice, can I still claim warranty on order O11491?",email,2025-11-28 09:06:00,Resolved
+T7031,C2232,O10955,My payment failed but the amount was deducted from my account. Order O10955 shows as unpaid.,email,2025-07-10 11:15:00,Resolved
+T7032,C2323,O10443,Is the smartwatch compatible with international chargers?,chat,2025-08-20 11:02:00,Resolved
+T7033,C2437,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2026-01-19 20:32:00,Resolved
+T7034,C2167,O10195,"I lost my invoice, can I still claim warranty on order O10195?",phone-transcribed,2025-10-05 20:35:00,Resolved
+T7035,C2268,O10378,How do I use my loyalty points on my next purchase?,email,2025-05-18 17:06:00,Resolved
+T7036,C2212,O11125,Can you tell me the current status of order O11125? Tracking hasn't updated in 3 days.,email,2026-04-01 08:15:00,Resolved
+T7037,C2170,O11304,"I was charged twice for order O11304, please refund the extra charge.",chat,2025-03-07 21:38:00,Open
+T7038,C2371,,How do I use my loyalty points on my next purchase?,phone-transcribed,2026-04-10 11:25:00,Resolved
+T7039,C2405,O10274,"My product from order O10274 stopped working, is it still under warranty?",chat,2025-11-20 09:51:00,Open
+T7040,C2269,,Is the blender compatible with international chargers?,chat,2026-02-24 11:14:00,Resolved
+T7041,C2244,O10054,"My product from order O10054 stopped working, is it still under warranty?",email,2026-02-03 11:10:00,Resolved
+T7042,C2080,O11242,How do I initiate a return for O11242? It arrived damaged.,chat,2025-08-21 12:21:00,Resolved
+T7043,C2039,O10522,Can you tell me the current status of order O10522? Tracking hasn't updated in 3 days.,email,2025-12-20 12:08:00,Resolved
+T7044,C2208,O10087,Can I change the delivery address for order O10087? It hasn't shipped yet.,email,2025-03-08 11:31:00,Escalated
+T7045,C2219,O10094,"I lost my invoice, can I still claim warranty on order O10094?",chat,2026-05-01 14:49:00,Resolved
+T7046,C2021,O10113,How do I initiate a return for O10113? It arrived damaged.,chat,2026-05-07 17:05:00,Escalated
+T7047,C2390,O11402,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-08-14 09:11:00,Resolved
+T7048,C2130,O10106,How do I use my loyalty points on my next purchase?,email,2026-01-29 14:36:00,Open
+T7049,C2320,O10993,This is the third time I've contacted support about order O10993 and no one has resolved it. Extremely frustrated.,email,2025-05-03 10:39:00,Open
+T7050,C2268,O10540,This is the third time I've contacted support about order O10540 and no one has resolved it. Extremely frustrated.,email,2026-01-05 09:15:00,Resolved
+T7051,C2283,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-10-09 12:15:00,Resolved
+T7052,C2341,,How do I use my loyalty points on my next purchase?,chat,2026-03-29 11:41:00,Resolved
+T7053,C2370,O10109,Can you tell me the current status of order O10109? Tracking hasn't updated in 3 days.,email,2025-08-21 19:44:00,Open
+T7054,C2420,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2026-05-10 17:11:00,Escalated
+T7055,C2365,O10522,"I was charged twice for order O10522, please refund the extra charge.",chat,2025-02-09 19:36:00,Resolved
+T7056,C2320,O11278,"I lost my invoice, can I still claim warranty on order O11278?",phone-transcribed,2026-05-14 12:53:00,Resolved
+T7057,C2309,O11229,My order O11229 shows delivered but I never received it.,chat,2026-05-07 12:09:00,Resolved
+T7058,C2187,O11164,Does this product come in a larger size? I'm considering ordering it.,chat,2026-06-18 09:18:00,Open
+T7059,C2256,O11267,How do I use my loyalty points on my next purchase?,phone-transcribed,2025-10-18 09:11:00,Resolved
+T7060,C2413,O10456,This is the third time I've contacted support about order O10456 and no one has resolved it. Extremely frustrated.,email,2025-07-14 14:36:00,Resolved
+T7061,C2028,O11274,"I lost my invoice, can I still claim warranty on order O11274?",phone-transcribed,2026-02-26 10:25:00,Resolved
+T7062,C2234,O10855,My order O10855 shows delivered but I never received it.,email,2026-04-05 19:13:00,Resolved
+T7063,C2370,O11064,How do I initiate a return for O11064? It arrived damaged.,chat,2025-06-12 17:58:00,Resolved
+T7064,C2124,,How do I use my loyalty points on my next purchase?,email,2026-03-26 20:01:00,Resolved
+T7065,C2145,O10006,This is the third time I've contacted support about order O10006 and no one has resolved it. Extremely frustrated.,phone-transcribed,2026-03-19 09:09:00,Escalated
+T7066,C2289,,Does this product come in a larger size? I'm considering ordering it.,email,2025-06-19 14:37:00,Resolved
+T7067,C2278,O11353,Is the blender compatible with international chargers?,chat,2025-09-23 14:36:00,Resolved
+T7068,C2208,O10443,Is the headphones compatible with international chargers?,email,2026-01-05 09:43:00,Resolved
+T7069,C2074,O10389,My order O10389 shows delivered but I never received it.,email,2025-05-25 12:53:00,Open
+T7070,C2136,O11108,"I lost my invoice, can I still claim warranty on order O11108?",chat,2025-11-22 21:32:00,Resolved
+T7071,C2020,O10060,This is the third time I've contacted support about order O10060 and no one has resolved it. Extremely frustrated.,chat,2026-03-04 08:00:00,Resolved
+T7072,C2263,O11229,"I lost my invoice, can I still claim warranty on order O11229?",phone-transcribed,2025-10-18 09:03:00,Open
+T7073,C2390,O11031,"I lost my invoice, can I still claim warranty on order O11031?",chat,2026-01-25 11:52:00,Resolved
+T7074,C2421,O10052,This is the third time I've contacted support about order O10052 and no one has resolved it. Extremely frustrated.,phone-transcribed,2025-10-03 16:03:00,Resolved
+T7075,C2142,O10600,Can you tell me the current status of order O10600? Tracking hasn't updated in 3 days.,phone-transcribed,2025-02-23 08:29:00,Resolved
+T7076,C2090,O11289,This is the third time I've contacted support about order O11289 and no one has resolved it. Extremely frustrated.,phone-transcribed,2025-09-29 18:26:00,Resolved
+T7077,C2025,O10754,Can I change the delivery address for order O10754? It hasn't shipped yet.,email,2026-05-07 08:57:00,Resolved
+T7078,C2226,O10332,Does this product come in a larger size? I'm considering ordering it.,email,2025-06-11 10:46:00,Resolved
+T7079,C2441,O11375,"I lost my invoice, can I still claim warranty on order O11375?",email,2026-04-18 08:35:00,Resolved
+T7080,C2381,O11007,This is the third time I've contacted support about order O11007 and no one has resolved it. Extremely frustrated.,phone-transcribed,2026-01-18 10:36:00,Resolved
+T7081,C2308,O10539,Can you tell me the current status of order O10539? Tracking hasn't updated in 3 days.,chat,2025-06-12 18:34:00,Resolved
+T7082,C2099,O10415,How do I initiate a return for O10415? It arrived damaged.,chat,2025-02-25 13:22:00,Escalated
+T7083,C2087,O10706,How do I initiate a return for O10706? It arrived damaged.,chat,2025-01-27 09:29:00,Open
+T7084,C2434,,How do I use my loyalty points on my next purchase?,chat,2025-08-05 08:24:00,Open
+T7085,C2384,O10487,"I lost my invoice, can I still claim warranty on order O10487?",chat,2025-10-15 16:36:00,Escalated
+T7086,C2192,O10389,Can you tell me the current status of order O10389? Tracking hasn't updated in 3 days.,chat,2025-08-02 16:18:00,Resolved
+T7087,C2303,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2025-08-20 08:09:00,Resolved
+T7088,C2150,O10088,My payment failed but the amount was deducted from my account. Order O10088 shows as unpaid.,chat,2026-04-25 08:15:00,Resolved
+T7089,C2349,O10208,I returned an item two weeks ago and still haven't received my refund. Order O10208.,chat,2026-03-02 10:57:00,Resolved
+T7090,C2404,O11366,"I was charged twice for order O11366, please refund the extra charge.",phone-transcribed,2025-01-29 08:53:00,Open
+T7091,C2047,,How do I use my loyalty points on my next purchase?,chat,2026-04-10 12:33:00,Escalated
+T7092,C2214,O11172,"I want to return my order O11172, the item doesn't fit properly.",email,2025-01-17 20:46:00,Resolved
+T7093,C2224,O10872,How do I initiate a return for O10872? It arrived damaged.,phone-transcribed,2025-05-10 11:56:00,Open
+T7094,C2263,O11113,"I want to return my order O11113, the item doesn't fit properly.",chat,2026-05-01 11:36:00,Resolved
+T7095,C2378,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-03-29 15:30:00,Resolved
+T7096,C2206,O11016,This is the third time I've contacted support about order O11016 and no one has resolved it. Extremely frustrated.,phone-transcribed,2025-12-06 20:51:00,Open
+T7097,C2405,O10004,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2026-02-26 18:53:00,Open
+T7098,C2114,O11380,Is the smartwatch compatible with international chargers?,chat,2025-11-08 18:55:00,Resolved
+T7099,C2007,O10686,My order O10686 shows delivered but I never received it.,phone-transcribed,2026-03-06 12:25:00,Resolved
+T7100,C2375,O11070,Can you tell me the current status of order O11070? Tracking hasn't updated in 3 days.,chat,2026-05-17 10:20:00,Resolved
+T7101,C2233,O11216,My order O11216 shows delivered but I never received it.,email,2025-03-02 20:43:00,Resolved
+T7102,C2220,,Does this product come in a larger size? I'm considering ordering it.,email,2025-07-26 10:08:00,Resolved
+T7103,C2019,O10677,This is the third time I've contacted support about order O10677 and no one has resolved it. Extremely frustrated.,phone-transcribed,2026-05-22 19:14:00,Resolved
+T7104,C2277,O11472,"I lost my invoice, can I still claim warranty on order O11472?",email,2026-06-27 18:08:00,Resolved
+T7105,C2310,O11248,"My product from order O11248 stopped working, is it still under warranty?",email,2025-03-07 13:28:00,Resolved
+T7106,C2259,O10073,"I was charged twice for order O10073, please refund the extra charge.",chat,2025-03-03 11:57:00,Resolved
+T7107,C2229,O10978,"I lost my invoice, can I still claim warranty on order O10978?",email,2025-06-14 10:01:00,Escalated
+T7108,C2231,O10779,I returned an item two weeks ago and still haven't received my refund. Order O10779.,phone-transcribed,2026-06-29 19:40:00,Resolved
+T7109,C2236,O11250,"I was charged twice for order O11250, please refund the extra charge.",chat,2026-06-19 21:39:00,Resolved
+T7110,C2223,O11018,My payment failed but the amount was deducted from my account. Order O11018 shows as unpaid.,email,2025-07-01 13:33:00,Resolved
+T7111,C2252,O10078,Can I change the delivery address for order O10078? It hasn't shipped yet.,email,2025-08-19 14:41:00,Open
+T7112,C2320,O10486,My order O10486 shows delivered but I never received it.,chat,2026-05-26 08:42:00,Escalated
+T7113,C2184,O10799,My order O10799 shows delivered but I never received it.,email,2025-01-04 18:29:00,Resolved
+T7114,C2015,O10572,Is the smartwatch compatible with international chargers?,email,2025-10-09 21:23:00,Resolved
+T7115,C2093,,How do I use my loyalty points on my next purchase?,email,2025-05-11 10:22:00,Resolved
+T7116,C2313,O10380,I returned an item two weeks ago and still haven't received my refund. Order O10380.,email,2025-04-03 18:34:00,Escalated
+T7117,C2433,O10801,I returned an item two weeks ago and still haven't received my refund. Order O10801.,phone-transcribed,2025-11-30 16:57:00,Escalated
+T7118,C2052,O10829,"My product from order O10829 stopped working, is it still under warranty?",chat,2025-06-05 18:58:00,Resolved
+T7119,C2272,O10691,My order O10691 shows delivered but I never received it.,chat,2025-01-13 14:10:00,Escalated
+T7120,C2087,O11206,"I lost my invoice, can I still claim warranty on order O11206?",phone-transcribed,2025-05-21 13:33:00,Resolved
+T7121,C2351,O10209,"My product from order O10209 stopped working, is it still under warranty?",phone-transcribed,2026-05-01 09:35:00,Resolved
+T7122,C2189,O10052,"My product from order O10052 stopped working, is it still under warranty?",email,2026-01-26 21:35:00,Resolved
+T7123,C2312,O10998,"My product from order O10998 stopped working, is it still under warranty?",email,2026-01-07 08:12:00,Resolved
+T7124,C2319,O11383,Can you tell me the current status of order O11383? Tracking hasn't updated in 3 days.,phone-transcribed,2025-04-08 15:38:00,Resolved
+T7125,C2024,O11068,How do I initiate a return for O11068? It arrived damaged.,email,2026-05-26 20:02:00,Open
+T7126,C2186,O10807,How do I initiate a return for O10807? It arrived damaged.,chat,2025-03-01 15:06:00,Resolved
+T7127,C2167,O10219,How do I initiate a return for O10219? It arrived damaged.,email,2025-08-16 17:56:00,Open
+T7128,C2214,O11490,"I was charged twice for order O11490, please refund the extra charge.",chat,2026-01-05 15:54:00,Resolved
+T7129,C2008,O10306,Does this product come in a larger size? I'm considering ordering it.,chat,2026-04-07 08:49:00,Resolved
+T7130,C2233,O11260,"I lost my invoice, can I still claim warranty on order O11260?",email,2026-04-01 15:35:00,Open
+T7131,C2375,O10269,This is the third time I've contacted support about order O10269 and no one has resolved it. Extremely frustrated.,chat,2026-02-25 10:15:00,Escalated
+T7132,C2269,O10713,My payment failed but the amount was deducted from my account. Order O10713 shows as unpaid.,chat,2025-01-13 13:35:00,Escalated
+T7133,C2414,O10876,My order O10876 shows delivered but I never received it.,chat,2025-02-25 21:49:00,Resolved
+T7134,C2212,O10921,My order O10921 shows delivered but I never received it.,chat,2025-03-21 10:31:00,Escalated
+T7135,C2261,O11370,"My product from order O11370 stopped working, is it still under warranty?",email,2025-06-10 19:37:00,Resolved
+T7136,C2186,O10649,My order O10649 shows delivered but I never received it.,chat,2026-05-01 12:39:00,Escalated
+T7137,C2042,O11419,My order O11419 shows delivered but I never received it.,phone-transcribed,2026-02-18 10:59:00,Escalated
+T7138,C2020,O10628,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2026-03-22 18:56:00,Resolved
+T7139,C2121,O11316,"I want to return my order O11316, the item doesn't fit properly.",email,2026-01-21 09:13:00,Open
+T7140,C2174,O10069,"I was charged twice for order O10069, please refund the extra charge.",email,2025-04-25 16:47:00,Open
+T7141,C2051,O10621,I returned an item two weeks ago and still haven't received my refund. Order O10621.,phone-transcribed,2026-06-22 17:24:00,Resolved
+T7142,C2317,O11004,Can I change the delivery address for order O11004? It hasn't shipped yet.,chat,2026-05-22 11:27:00,Resolved
+T7143,C2326,O10903,My order O10903 shows delivered but I never received it.,email,2025-04-11 19:00:00,Open
+T7144,C2433,O11441,My payment failed but the amount was deducted from my account. Order O11441 shows as unpaid.,phone-transcribed,2025-02-17 11:04:00,Resolved
+T7145,C2412,O10354,This is the third time I've contacted support about order O10354 and no one has resolved it. Extremely frustrated.,email,2025-10-18 21:04:00,Open
+T7146,C2310,O11321,"I want to return my order O11321, the item doesn't fit properly.",email,2026-06-11 09:03:00,Resolved
+T7147,C2004,O10501,How do I use my loyalty points on my next purchase?,chat,2025-03-04 11:45:00,Resolved
+T7148,C2176,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2026-02-10 09:42:00,Resolved
+T7149,C2402,O10716,"I want to return my order O10716, the item doesn't fit properly.",chat,2026-05-22 19:23:00,Resolved
+T7150,C2136,O10277,"I was charged twice for order O10277, please refund the extra charge.",chat,2025-10-22 08:20:00,Open
+T7151,C2046,O11371,My payment failed but the amount was deducted from my account. Order O11371 shows as unpaid.,chat,2025-02-27 16:15:00,Escalated
+T7152,C2200,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-03-03 18:30:00,Open
+T7153,C2234,O10907,Is the smartwatch compatible with international chargers?,phone-transcribed,2025-10-29 17:11:00,Escalated
+T7154,C2014,O10372,"My product from order O10372 stopped working, is it still under warranty?",chat,2025-06-10 17:13:00,Resolved
+T7155,C2087,O10874,Can you tell me the current status of order O10874? Tracking hasn't updated in 3 days.,email,2026-03-25 09:40:00,Resolved
+T7156,C2283,O10294,My payment failed but the amount was deducted from my account. Order O10294 shows as unpaid.,phone-transcribed,2026-04-03 18:23:00,Escalated
+T7157,C2125,O11182,My order O11182 shows delivered but I never received it.,chat,2026-05-19 12:26:00,Open
+T7158,C2371,,Is the running shoes compatible with international chargers?,chat,2025-11-08 12:15:00,Escalated
+T7159,C2292,O10534,"My product from order O10534 stopped working, is it still under warranty?",email,2026-06-01 17:45:00,Resolved
+T7160,C2092,,How do I use my loyalty points on my next purchase?,chat,2025-10-22 10:28:00,Open
+T7161,C2028,O10504,"My product from order O10504 stopped working, is it still under warranty?",email,2025-11-17 19:07:00,Resolved
+T7162,C2362,,How do I use my loyalty points on my next purchase?,email,2026-04-27 16:15:00,Open
+T7163,C2014,O11382,My order O11382 shows delivered but I never received it.,chat,2026-03-31 14:46:00,Escalated
+T7164,C2441,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-08-22 12:48:00,Resolved
+T7165,C2310,O11404,My order O11404 shows delivered but I never received it.,email,2025-06-21 21:36:00,Resolved
+T7166,C2350,O11419,How do I initiate a return for O11419? It arrived damaged.,email,2026-03-29 10:15:00,Resolved
+T7167,C2201,O10082,How do I use my loyalty points on my next purchase?,chat,2025-06-10 11:59:00,Resolved
+T7168,C2041,O11172,This is the third time I've contacted support about order O11172 and no one has resolved it. Extremely frustrated.,chat,2026-01-06 13:53:00,Escalated
+T7169,C2107,O11490,This is the third time I've contacted support about order O11490 and no one has resolved it. Extremely frustrated.,chat,2026-05-11 18:36:00,Open
+T7170,C2373,,Does this product come in a larger size? I'm considering ordering it.,chat,2026-02-08 15:17:00,Resolved
+T7171,C2376,O10394,My payment failed but the amount was deducted from my account. Order O10394 shows as unpaid.,email,2026-04-22 08:36:00,Resolved
+T7172,C2240,O10430,Can you tell me the current status of order O10430? Tracking hasn't updated in 3 days.,chat,2025-06-06 10:25:00,Open
+T7173,C2077,O10310,Can I change the delivery address for order O10310? It hasn't shipped yet.,chat,2025-11-09 21:43:00,Escalated
+T7174,C2235,O10955,"I lost my invoice, can I still claim warranty on order O10955?",chat,2025-10-23 20:47:00,Resolved
+T7175,C2059,O10783,Can you tell me the current status of order O10783? Tracking hasn't updated in 3 days.,chat,2025-09-30 08:07:00,Resolved
+T7176,C2016,O10278,"I was charged twice for order O10278, please refund the extra charge.",email,2025-07-20 20:28:00,Escalated
+T7177,C2101,,How do I use my loyalty points on my next purchase?,chat,2026-05-11 11:27:00,Resolved
+T7178,C2106,O10027,My payment failed but the amount was deducted from my account. Order O10027 shows as unpaid.,chat,2025-12-30 20:19:00,Escalated
+T7179,C2053,O10577,"I want to return my order O10577, the item doesn't fit properly.",chat,2025-08-26 08:50:00,Resolved
+T7180,C2202,,Is the blender compatible with international chargers?,phone-transcribed,2025-09-12 18:20:00,Escalated
+T7181,C2076,O10263,Does this product come in a larger size? I'm considering ordering it.,email,2025-08-26 11:44:00,Resolved
+T7182,C2179,O10779,Can I change the delivery address for order O10779? It hasn't shipped yet.,email,2026-04-13 08:51:00,Escalated
+T7183,C2366,,Is the blender compatible with international chargers?,chat,2025-12-03 17:31:00,Resolved
+T7184,C2397,O10468,Can you tell me the current status of order O10468? Tracking hasn't updated in 3 days.,chat,2026-06-20 11:27:00,Escalated
+T7185,C2281,O11105,"My product from order O11105 stopped working, is it still under warranty?",chat,2025-11-29 11:54:00,Open
+T7186,C2038,,How do I use my loyalty points on my next purchase?,chat,2025-11-18 08:27:00,Open
+T7187,C2314,O10981,"I want to return my order O10981, the item doesn't fit properly.",email,2025-07-09 08:10:00,Resolved
+T7188,C2031,O11472,"I was charged twice for order O11472, please refund the extra charge.",chat,2026-06-19 08:26:00,Open
+T7189,C2064,O10576,This is the third time I've contacted support about order O10576 and no one has resolved it. Extremely frustrated.,chat,2025-09-30 21:10:00,Escalated
+T7190,C2350,,Is the smartwatch compatible with international chargers?,email,2026-01-04 08:15:00,Open
+T7191,C2008,O10830,Does this product come in a larger size? I'm considering ordering it.,email,2025-09-24 15:23:00,Resolved
+T7192,C2402,O11275,I returned an item two weeks ago and still haven't received my refund. Order O11275.,chat,2025-07-27 18:49:00,Escalated
+T7193,C2190,O10870,I returned an item two weeks ago and still haven't received my refund. Order O10870.,phone-transcribed,2026-02-04 15:53:00,Open
+T7194,C2428,O10514,My order O10514 shows delivered but I never received it.,chat,2025-10-19 08:35:00,Open
+T7195,C2060,O11053,My order O11053 shows delivered but I never received it.,chat,2025-02-25 20:58:00,Escalated
+T7196,C2211,O10470,My payment failed but the amount was deducted from my account. Order O10470 shows as unpaid.,chat,2026-02-27 20:05:00,Resolved
+T7197,C2216,O10087,My payment failed but the amount was deducted from my account. Order O10087 shows as unpaid.,email,2025-07-25 18:23:00,Resolved
+T7198,C2075,O11474,Does this product come in a larger size? I'm considering ordering it.,phone-transcribed,2025-08-18 08:29:00,Open
+T7199,C2260,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-02-28 19:14:00,Resolved
+T7200,C2024,O10589,This is the third time I've contacted support about order O10589 and no one has resolved it. Extremely frustrated.,phone-transcribed,2026-06-20 15:19:00,Open
+T7201,C2205,O10233,"I want to return my order O10233, the item doesn't fit properly.",chat,2026-06-18 14:11:00,Resolved
+T7202,C2440,O11385,My payment failed but the amount was deducted from my account. Order O11385 shows as unpaid.,chat,2025-09-10 14:38:00,Resolved
+T7203,C2015,O10246,How do I initiate a return for O10246? It arrived damaged.,chat,2025-10-09 20:55:00,Escalated
+T7204,C2310,O10320,"I lost my invoice, can I still claim warranty on order O10320?",phone-transcribed,2025-05-21 14:27:00,Resolved
+T7205,C2040,O11198,"My product from order O11198 stopped working, is it still under warranty?",email,2025-05-29 19:54:00,Resolved
+T7206,C2016,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-03-03 12:21:00,Resolved
+T7207,C2012,O10138,My order O10138 shows delivered but I never received it.,chat,2026-04-15 15:42:00,Resolved
+T7208,C2129,O11341,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2026-01-29 20:35:00,Open
+T7209,C2366,,Does this product come in a larger size? I'm considering ordering it.,email,2026-04-09 11:42:00,Escalated
+T7210,C2033,O10352,"My product from order O10352 stopped working, is it still under warranty?",chat,2026-03-22 16:02:00,Resolved
+T7211,C2152,,Is the running shoes compatible with international chargers?,phone-transcribed,2026-03-14 20:38:00,Resolved
+T7212,C2252,O10133,Is the smartwatch compatible with international chargers?,chat,2026-03-31 18:07:00,Resolved
+T7213,C2195,,Does this product come in a larger size? I'm considering ordering it.,chat,2026-03-31 09:09:00,Resolved
+T7214,C2146,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2026-04-05 20:20:00,Resolved
+T7215,C2107,O11410,Can I change the delivery address for order O11410? It hasn't shipped yet.,email,2025-05-04 17:28:00,Resolved
+T7216,C2034,O10540,Can I change the delivery address for order O10540? It hasn't shipped yet.,phone-transcribed,2025-09-23 10:01:00,Resolved
+T7217,C2026,O10943,My payment failed but the amount was deducted from my account. Order O10943 shows as unpaid.,chat,2026-05-20 08:53:00,Open
+T7218,C2340,O11352,Is the blender compatible with international chargers?,chat,2025-02-28 20:05:00,Resolved
+T7219,C2350,O11259,Can I change the delivery address for order O11259? It hasn't shipped yet.,phone-transcribed,2025-09-13 09:28:00,Escalated
+T7220,C2374,O11100,This is the third time I've contacted support about order O11100 and no one has resolved it. Extremely frustrated.,phone-transcribed,2026-02-25 08:52:00,Escalated
+T7221,C2036,O10817,My payment failed but the amount was deducted from my account. Order O10817 shows as unpaid.,chat,2025-05-29 10:48:00,Open
+T7222,C2182,O11050,My payment failed but the amount was deducted from my account. Order O11050 shows as unpaid.,email,2026-03-02 16:23:00,Resolved
+T7223,C2005,O10353,My payment failed but the amount was deducted from my account. Order O10353 shows as unpaid.,email,2025-06-22 16:02:00,Resolved
+T7224,C2163,O11365,"I was charged twice for order O11365, please refund the extra charge.",email,2025-04-19 21:12:00,Resolved
+T7225,C2043,O11219,I returned an item two weeks ago and still haven't received my refund. Order O11219.,chat,2025-03-27 18:05:00,Escalated
+T7226,C2261,,How do I use my loyalty points on my next purchase?,email,2026-02-17 18:27:00,Resolved
+T7227,C2258,O10948,"I want to return my order O10948, the item doesn't fit properly.",email,2025-04-13 21:30:00,Resolved
+T7228,C2025,O10088,I returned an item two weeks ago and still haven't received my refund. Order O10088.,chat,2025-11-09 12:57:00,Escalated
+T7229,C2404,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-03-18 16:41:00,Resolved
+T7230,C2249,O11380,I returned an item two weeks ago and still haven't received my refund. Order O11380.,chat,2025-07-16 13:06:00,Escalated
+T7231,C2235,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-09-24 08:56:00,Resolved
+T7232,C2215,O11310,Can I change the delivery address for order O11310? It hasn't shipped yet.,email,2026-03-18 14:34:00,Resolved
+T7233,C2135,,How do I use my loyalty points on my next purchase?,chat,2025-02-11 12:09:00,Open
+T7234,C2005,O11148,"I want to return my order O11148, the item doesn't fit properly.",chat,2026-05-25 10:59:00,Resolved
+T7235,C2389,O11290,How do I initiate a return for O11290? It arrived damaged.,chat,2025-09-01 10:00:00,Resolved
+T7236,C2293,O10454,My order O10454 shows delivered but I never received it.,email,2025-01-24 19:32:00,Open
+T7237,C2021,,How do I use my loyalty points on my next purchase?,chat,2025-11-16 20:33:00,Resolved
+T7238,C2294,O10870,Can you tell me the current status of order O10870? Tracking hasn't updated in 3 days.,email,2025-04-09 09:19:00,Open
+T7239,C2424,O11201,Can you tell me the current status of order O11201? Tracking hasn't updated in 3 days.,chat,2026-02-17 18:52:00,Open
+T7240,C2420,O10418,This is the third time I've contacted support about order O10418 and no one has resolved it. Extremely frustrated.,chat,2026-06-24 15:46:00,Resolved
+T7241,C2000,O10382,"My product from order O10382 stopped working, is it still under warranty?",chat,2025-08-30 13:35:00,Resolved
+T7242,C2205,O11434,"My product from order O11434 stopped working, is it still under warranty?",phone-transcribed,2025-11-28 12:48:00,Resolved
+T7243,C2074,O10255,I returned an item two weeks ago and still haven't received my refund. Order O10255.,chat,2025-10-09 08:55:00,Open
+T7244,C2148,O10057,I returned an item two weeks ago and still haven't received my refund. Order O10057.,chat,2025-04-09 15:48:00,Escalated
+T7245,C2382,O11056,Can you tell me the current status of order O11056? Tracking hasn't updated in 3 days.,email,2025-01-26 16:36:00,Resolved
+T7246,C2322,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2026-04-06 21:35:00,Open
+T7247,C2139,O10906,Can you tell me the current status of order O10906? Tracking hasn't updated in 3 days.,chat,2026-06-20 20:14:00,Resolved
+T7248,C2318,O10807,"I want to return my order O10807, the item doesn't fit properly.",phone-transcribed,2026-04-20 14:39:00,Resolved
+T7249,C2316,O10509,My order O10509 shows delivered but I never received it.,email,2025-06-28 15:19:00,Escalated
+T7250,C2195,O10184,Does this product come in a larger size? I'm considering ordering it.,chat,2025-09-30 13:51:00,Resolved
+T7251,C2056,O11256,Can you tell me the current status of order O11256? Tracking hasn't updated in 3 days.,email,2026-05-11 10:03:00,Resolved
+T7252,C2399,O10739,"I was charged twice for order O10739, please refund the extra charge.",email,2025-11-26 19:02:00,Resolved
+T7253,C2036,O10160,"I was charged twice for order O10160, please refund the extra charge.",email,2026-02-25 11:53:00,Resolved
+T7254,C2385,O11137,My order O11137 shows delivered but I never received it.,chat,2026-02-09 11:26:00,Escalated
+T7255,C2331,O10204,"I want to return my order O10204, the item doesn't fit properly.",chat,2025-11-21 08:24:00,Resolved
+T7256,C2025,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-08-28 16:37:00,Resolved
+T7257,C2024,O10770,I returned an item two weeks ago and still haven't received my refund. Order O10770.,email,2026-03-21 20:57:00,Escalated
+T7258,C2285,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-04-14 20:27:00,Resolved
+T7259,C2007,O10636,This is the third time I've contacted support about order O10636 and no one has resolved it. Extremely frustrated.,chat,2025-10-31 15:48:00,Resolved
+T7260,C2275,O10922,How do I use my loyalty points on my next purchase?,email,2025-12-31 11:50:00,Resolved
+T7261,C2311,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2025-06-29 12:51:00,Resolved
+T7262,C2195,O10267,My order O10267 shows delivered but I never received it.,email,2025-10-29 19:18:00,Open
+T7263,C2203,O11245,Is the blender compatible with international chargers?,chat,2025-08-06 08:44:00,Escalated
+T7264,C2217,O10382,"I want to return my order O10382, the item doesn't fit properly.",chat,2025-10-30 10:48:00,Resolved
+T7265,C2219,,How do I use my loyalty points on my next purchase?,chat,2025-04-04 20:20:00,Resolved
+T7266,C2199,O10362,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2026-01-16 09:23:00,Escalated
+T7267,C2436,O10514,My payment failed but the amount was deducted from my account. Order O10514 shows as unpaid.,phone-transcribed,2025-11-04 20:57:00,Escalated
+T7268,C2007,O10971,Can you tell me the current status of order O10971? Tracking hasn't updated in 3 days.,chat,2025-03-18 16:08:00,Open
+T7269,C2040,O11183,"I want to return my order O11183, the item doesn't fit properly.",chat,2025-05-07 20:17:00,Resolved
+T7270,C2367,O10538,"I lost my invoice, can I still claim warranty on order O10538?",email,2026-04-29 09:09:00,Resolved
+T7271,C2084,O10514,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-05-14 13:14:00,Resolved
+T7272,C2356,,Does this product come in a larger size? I'm considering ordering it.,chat,2026-04-15 21:40:00,Open
+T7273,C2135,O10358,My payment failed but the amount was deducted from my account. Order O10358 shows as unpaid.,chat,2026-06-16 16:44:00,Escalated
+T7274,C2257,O10518,"My product from order O10518 stopped working, is it still under warranty?",email,2025-10-18 08:02:00,Resolved
+T7275,C2219,O10625,I returned an item two weeks ago and still haven't received my refund. Order O10625.,chat,2025-07-23 13:47:00,Open
+T7276,C2100,O10157,This is the third time I've contacted support about order O10157 and no one has resolved it. Extremely frustrated.,chat,2026-04-10 10:59:00,Escalated
+T7277,C2229,O11100,I returned an item two weeks ago and still haven't received my refund. Order O11100.,email,2026-01-01 19:52:00,Escalated
+T7278,C2230,O10815,"I was charged twice for order O10815, please refund the extra charge.",chat,2025-03-01 18:41:00,Resolved
+T7279,C2085,O10347,"I was charged twice for order O10347, please refund the extra charge.",chat,2026-06-22 16:24:00,Resolved
+T7280,C2419,O10972,Can you tell me the current status of order O10972? Tracking hasn't updated in 3 days.,email,2026-04-13 16:03:00,Resolved
+T7281,C2034,,Does this product come in a larger size? I'm considering ordering it.,email,2026-02-21 13:45:00,Resolved
+T7282,C2016,O11246,"I lost my invoice, can I still claim warranty on order O11246?",chat,2025-08-10 16:53:00,Open
+T7283,C2319,O10470,How do I use my loyalty points on my next purchase?,chat,2025-10-28 20:40:00,Resolved
+T7284,C2263,O11464,Can you tell me the current status of order O11464? Tracking hasn't updated in 3 days.,chat,2025-01-10 12:32:00,Escalated
+T7285,C2431,O10707,"I lost my invoice, can I still claim warranty on order O10707?",chat,2025-08-31 18:23:00,Resolved
+T7286,C2218,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-06-25 19:04:00,Resolved
+T7287,C2317,O10922,How do I initiate a return for O10922? It arrived damaged.,chat,2025-06-14 18:48:00,Escalated
+T7288,C2371,O11318,Is the headphones compatible with international chargers?,chat,2025-02-08 16:32:00,Resolved
+T7289,C2447,O10790,My payment failed but the amount was deducted from my account. Order O10790 shows as unpaid.,phone-transcribed,2025-08-31 16:49:00,Open
+T7290,C2391,O11226,Can I change the delivery address for order O11226? It hasn't shipped yet.,chat,2026-03-19 15:37:00,Resolved
+T7291,C2428,O10214,"I was charged twice for order O10214, please refund the extra charge.",email,2026-04-13 10:16:00,Resolved
+T7292,C2018,O10183,My order O10183 shows delivered but I never received it.,email,2025-04-11 12:08:00,Escalated
+T7293,C2425,O11328,My payment failed but the amount was deducted from my account. Order O11328 shows as unpaid.,email,2026-02-08 16:15:00,Open
+T7294,C2405,O10309,Can you tell me the current status of order O10309? Tracking hasn't updated in 3 days.,phone-transcribed,2025-03-11 16:31:00,Open
+T7295,C2418,O11160,"I want to return my order O11160, the item doesn't fit properly.",phone-transcribed,2026-06-09 21:32:00,Escalated
+T7296,C2364,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-01-09 08:52:00,Open
+T7297,C2094,O10359,How do I initiate a return for O10359? It arrived damaged.,chat,2026-05-22 16:24:00,Resolved
+T7298,C2194,O10092,Can you tell me the current status of order O10092? Tracking hasn't updated in 3 days.,email,2026-05-30 17:42:00,Resolved
+T7299,C2410,,Is the running shoes compatible with international chargers?,chat,2025-01-13 09:52:00,Resolved
+T7300,C2190,O10190,"I lost my invoice, can I still claim warranty on order O10190?",chat,2025-07-26 11:57:00,Resolved
+T7301,C2163,O10174,Is the headphones compatible with international chargers?,email,2026-02-27 14:50:00,Resolved
+T7302,C2438,O11313,My payment failed but the amount was deducted from my account. Order O11313 shows as unpaid.,chat,2025-11-30 14:55:00,Escalated
+T7303,C2161,O11385,This is the third time I've contacted support about order O11385 and no one has resolved it. Extremely frustrated.,chat,2025-01-06 19:49:00,Escalated
+T7304,C2234,O10827,This is the third time I've contacted support about order O10827 and no one has resolved it. Extremely frustrated.,chat,2026-05-14 13:47:00,Resolved
+T7305,C2224,O10152,This is the third time I've contacted support about order O10152 and no one has resolved it. Extremely frustrated.,chat,2026-03-13 08:27:00,Resolved
+T7306,C2342,O10864,"I lost my invoice, can I still claim warranty on order O10864?",chat,2026-02-18 18:25:00,Escalated
+T7307,C2153,O10177,This is the third time I've contacted support about order O10177 and no one has resolved it. Extremely frustrated.,email,2025-12-17 12:00:00,Escalated
+T7308,C2277,O10205,"My product from order O10205 stopped working, is it still under warranty?",email,2025-08-26 12:49:00,Resolved
+T7309,C2021,O11259,My payment failed but the amount was deducted from my account. Order O11259 shows as unpaid.,chat,2025-11-01 20:12:00,Resolved
+T7310,C2280,O10602,How do I initiate a return for O10602? It arrived damaged.,chat,2025-02-12 17:36:00,Resolved
+T7311,C2081,O11242,"I lost my invoice, can I still claim warranty on order O11242?",email,2025-09-14 11:34:00,Resolved
+T7312,C2284,O11301,My payment failed but the amount was deducted from my account. Order O11301 shows as unpaid.,chat,2025-05-04 18:41:00,Resolved
+T7313,C2314,O10745,Can you tell me the current status of order O10745? Tracking hasn't updated in 3 days.,chat,2025-08-26 14:11:00,Resolved
+T7314,C2432,O11166,Can you tell me the current status of order O11166? Tracking hasn't updated in 3 days.,phone-transcribed,2025-09-12 19:38:00,Resolved
+T7315,C2011,O10271,Can you tell me the current status of order O10271? Tracking hasn't updated in 3 days.,phone-transcribed,2025-12-12 15:54:00,Escalated
+T7316,C2267,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-10-24 09:35:00,Resolved
+T7317,C2389,,How do I use my loyalty points on my next purchase?,phone-transcribed,2025-05-13 13:21:00,Resolved
+T7318,C2060,O10996,"I was charged twice for order O10996, please refund the extra charge.",chat,2026-04-01 18:47:00,Open
+T7319,C2151,O11233,"I lost my invoice, can I still claim warranty on order O11233?",email,2025-07-16 16:43:00,Resolved
+T7320,C2330,O10296,My payment failed but the amount was deducted from my account. Order O10296 shows as unpaid.,chat,2026-04-01 17:25:00,Escalated
+T7321,C2223,O10362,I returned an item two weeks ago and still haven't received my refund. Order O10362.,chat,2025-05-10 13:32:00,Resolved
+T7322,C2230,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-01-07 12:58:00,Open
+T7323,C2421,O10709,My payment failed but the amount was deducted from my account. Order O10709 shows as unpaid.,chat,2025-11-20 13:27:00,Escalated
+T7324,C2064,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-07-29 15:53:00,Open
+T7325,C2294,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-05-08 11:59:00,Resolved
+T7326,C2175,O10563,"I lost my invoice, can I still claim warranty on order O10563?",chat,2026-04-15 21:08:00,Resolved
+T7327,C2442,O10363,"I was charged twice for order O10363, please refund the extra charge.",phone-transcribed,2025-12-21 13:56:00,Escalated
+T7328,C2403,O10010,I returned an item two weeks ago and still haven't received my refund. Order O10010.,chat,2026-05-01 18:58:00,Escalated
+T7329,C2093,O11410,"I want to return my order O11410, the item doesn't fit properly.",email,2025-03-09 09:08:00,Escalated
+T7330,C2037,O11110,"I lost my invoice, can I still claim warranty on order O11110?",chat,2025-03-27 08:50:00,Resolved
+T7331,C2287,,Is the headphones compatible with international chargers?,chat,2025-04-23 13:00:00,Resolved
+T7332,C2432,O10223,"I was charged twice for order O10223, please refund the extra charge.",chat,2025-04-12 09:47:00,Escalated
+T7333,C2380,O10465,"My product from order O10465 stopped working, is it still under warranty?",chat,2025-02-09 10:12:00,Open
+T7334,C2236,O10881,Can you tell me the current status of order O10881? Tracking hasn't updated in 3 days.,email,2025-05-24 15:16:00,Escalated
+T7335,C2424,O11032,Is the blender compatible with international chargers?,email,2025-12-03 19:18:00,Resolved
+T7336,C2330,O11162,"I want to return my order O11162, the item doesn't fit properly.",chat,2026-01-06 17:13:00,Resolved
+T7337,C2211,O10269,"My product from order O10269 stopped working, is it still under warranty?",chat,2025-04-12 20:07:00,Resolved
+T7338,C2375,O11278,Can you tell me the current status of order O11278? Tracking hasn't updated in 3 days.,phone-transcribed,2025-03-24 20:19:00,Resolved
+T7339,C2042,O11485,How do I initiate a return for O11485? It arrived damaged.,chat,2026-05-08 08:09:00,Resolved
+T7340,C2287,,Is the smartwatch compatible with international chargers?,email,2026-04-03 15:57:00,Resolved
+T7341,C2401,O11491,My order O11491 shows delivered but I never received it.,chat,2025-06-12 20:56:00,Escalated
+T7342,C2172,O10310,This is the third time I've contacted support about order O10310 and no one has resolved it. Extremely frustrated.,email,2026-01-07 21:17:00,Escalated
+T7343,C2222,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-07-03 11:45:00,Escalated
+T7344,C2153,,How do I use my loyalty points on my next purchase?,email,2025-08-11 13:51:00,Resolved
+T7345,C2408,,How do I use my loyalty points on my next purchase?,chat,2025-10-12 16:03:00,Resolved
+T7346,C2027,O10909,"I was charged twice for order O10909, please refund the extra charge.",email,2025-11-08 13:28:00,Resolved
+T7347,C2180,O10745,Can you tell me the current status of order O10745? Tracking hasn't updated in 3 days.,chat,2025-01-07 10:46:00,Resolved
+T7348,C2304,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,phone-transcribed,2025-02-25 09:02:00,Resolved
+T7349,C2358,O11496,I returned an item two weeks ago and still haven't received my refund. Order O11496.,email,2026-02-17 09:56:00,Open
+T7350,C2042,O10947,Can you tell me the current status of order O10947? Tracking hasn't updated in 3 days.,chat,2026-03-06 08:09:00,Resolved
+T7351,C2151,O10911,Can I change the delivery address for order O10911? It hasn't shipped yet.,chat,2025-08-29 10:10:00,Resolved
+T7352,C2207,O11271,Can I change the delivery address for order O11271? It hasn't shipped yet.,phone-transcribed,2026-04-09 21:58:00,Escalated
+T7353,C2357,O11397,Can you tell me the current status of order O11397? Tracking hasn't updated in 3 days.,phone-transcribed,2026-05-14 18:08:00,Open
+T7354,C2160,O11158,My order O11158 shows delivered but I never received it.,phone-transcribed,2025-12-05 08:10:00,Escalated
+T7355,C2388,O11432,My order O11432 shows delivered but I never received it.,chat,2025-11-19 13:13:00,Escalated
+T7356,C2093,,How do I use my loyalty points on my next purchase?,chat,2026-02-16 13:02:00,Resolved
+T7357,C2022,O11008,This is the third time I've contacted support about order O11008 and no one has resolved it. Extremely frustrated.,email,2025-08-18 11:54:00,Open
+T7358,C2304,O10101,My payment failed but the amount was deducted from my account. Order O10101 shows as unpaid.,email,2025-07-27 18:23:00,Resolved
+T7359,C2118,,Is the headphones compatible with international chargers?,chat,2026-02-08 12:43:00,Resolved
+T7360,C2155,O11477,My order O11477 shows delivered but I never received it.,chat,2026-02-05 09:00:00,Resolved
+T7361,C2064,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2025-06-26 19:48:00,Resolved
+T7362,C2036,O10614,My payment failed but the amount was deducted from my account. Order O10614 shows as unpaid.,phone-transcribed,2025-12-29 13:56:00,Resolved
+T7363,C2089,O10735,My payment failed but the amount was deducted from my account. Order O10735 shows as unpaid.,email,2025-04-05 13:43:00,Resolved
+T7364,C2075,O10144,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,chat,2026-06-28 17:36:00,Open
+T7365,C2009,O11169,"I lost my invoice, can I still claim warranty on order O11169?",phone-transcribed,2025-01-13 08:04:00,Resolved
+T7366,C2367,O10977,"I was charged twice for order O10977, please refund the extra charge.",chat,2025-11-29 11:30:00,Resolved
+T7367,C2355,O10446,Is the smartwatch compatible with international chargers?,email,2025-04-24 12:37:00,Resolved
+T7368,C2191,O10460,This is the third time I've contacted support about order O10460 and no one has resolved it. Extremely frustrated.,chat,2026-02-17 15:24:00,Escalated
+T7369,C2433,O10684,"I want to return my order O10684, the item doesn't fit properly.",chat,2025-07-30 18:22:00,Resolved
+T7370,C2037,O10435,"I was charged twice for order O10435, please refund the extra charge.",chat,2025-11-29 14:11:00,Resolved
+T7371,C2235,O10521,My payment failed but the amount was deducted from my account. Order O10521 shows as unpaid.,email,2026-02-04 10:42:00,Escalated
+T7372,C2359,O10306,My order O10306 shows delivered but I never received it.,email,2026-05-19 13:54:00,Open
+T7373,C2007,O10065,Can I change the delivery address for order O10065? It hasn't shipped yet.,email,2025-09-11 21:43:00,Open
+T7374,C2125,,Where is my order? It was supposed to arrive by now and I haven't gotten any updates.,email,2025-08-08 08:09:00,Resolved
+T7375,C2059,O10786,Can you tell me the current status of order O10786? Tracking hasn't updated in 3 days.,chat,2025-07-03 17:59:00,Open
+T7376,C2347,O10934,"My product from order O10934 stopped working, is it still under warranty?",email,2025-08-04 16:50:00,Escalated
+T7377,C2230,O11158,"My product from order O11158 stopped working, is it still under warranty?",chat,2025-06-20 19:37:00,Resolved
+T7378,C2159,O10809,"I want to return my order O10809, the item doesn't fit properly.",chat,2025-03-09 14:42:00,Resolved
+T7379,C2091,O10017,My order O10017 shows delivered but I never received it.,chat,2026-01-13 16:11:00,Open
+T7380,C2236,O10050,"I was charged twice for order O10050, please refund the extra charge.",chat,2026-02-28 09:05:00,Escalated
+T7381,C2431,O10462,"I want to return my order O10462, the item doesn't fit properly.",chat,2026-06-22 19:10:00,Open
+T7382,C2407,,Does this product come in a larger size? I'm considering ordering it.,chat,2026-06-22 20:07:00,Resolved
+T7383,C2250,O10008,Can I change the delivery address for order O10008? It hasn't shipped yet.,email,2025-01-11 09:49:00,Open
+T7384,C2223,O11096,How do I initiate a return for O11096? It arrived damaged.,chat,2025-09-23 09:46:00,Resolved
+T7385,C2160,,Does this product come in a larger size? I'm considering ordering it.,chat,2025-10-14 09:24:00,Resolved
+T7386,C2022,O10103,Can I change the delivery address for order O10103? It hasn't shipped yet.,phone-transcribed,2025-05-14 16:48:00,Resolved
+T7387,C2309,O10442,This is the third time I've contacted support about order O10442 and no one has resolved it. Extremely frustrated.,email,2025-10-03 17:09:00,Resolved
+T7388,C2297,O10353,"I was charged twice for order O10353, please refund the extra charge.",chat,2025-11-22 21:03:00,Resolved
+T7389,C2263,O10344,"I want to return my order O10344, the item doesn't fit properly.",chat,2025-06-02 10:35:00,Resolved
+T7390,C2150,O10261,My payment failed but the amount was deducted from my account. Order O10261 shows as unpaid.,chat,2025-09-22 08:16:00,Open
+T7391,C2142,O10570,"I was charged twice for order O10570, please refund the extra charge.",email,2026-06-22 19:07:00,Open
+T7392,C2184,,Does this product come in a larger size? I'm considering ordering it.,email,2025-04-23 10:47:00,Resolved
+T7393,C2006,O10073,"I want to return my order O10073, the item doesn't fit properly.",phone-transcribed,2026-02-07 19:44:00,Open
+T7394,C2436,O10267,"I want to return my order O10267, the item doesn't fit properly.",chat,2025-10-08 19:56:00,Open
+T7395,C2190,O10397,Can I change the delivery address for order O10397? It hasn't shipped yet.,phone-transcribed,2025-11-17 16:05:00,Resolved
+T7396,C2024,O10519,"I lost my invoice, can I still claim warranty on order O10519?",chat,2025-03-26 21:03:00,Resolved
+T7397,C2406,O10901,Does this product come in a larger size? I'm considering ordering it.,chat,2026-05-07 17:06:00,Resolved
+T7398,C2114,O10145,"I want to return my order O10145, the item doesn't fit properly.",email,2026-03-06 09:26:00,Resolved
+T7399,C2416,,Is the headphones compatible with international chargers?,chat,2025-08-29 21:38:00,Open

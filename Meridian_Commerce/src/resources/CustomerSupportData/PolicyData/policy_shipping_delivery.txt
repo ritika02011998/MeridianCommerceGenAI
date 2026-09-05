@@ -1,0 +1,53 @@
+SHIPPING & DELIVERY POLICY — Meridian Commerce
+
+1. Standard Delivery Timelines
+- Metro cities (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Kolkata, Pune):
+  2-4 business days
+- Tier-2 cities (Jaipur, Lucknow, Indore, Chandigarh, Kochi, Nagpur, etc.):
+  4-6 business days
+- Remote or rural pin codes: 6-10 business days
+
+2. Delivery Charges
+Orders above ₹999 qualify for free standard shipping. Orders below this
+threshold incur a flat ₹79 shipping fee. Expedited shipping (1-2 business
+days, metro cities only) is available at checkout for an additional fee.
+
+3. Delayed Delivery Compensation
+If a shipment is delayed beyond the promised delivery window by more than 3
+business days, the customer is eligible for one of the following, at
+Meridian Commerce's discretion:
+  a) A full waiver of any shipping fee paid on that order, or
+  b) A Meridian Wallet credit of ₹150 for orders above ₹1,500, or
+  c) Priority re-shipping at no extra cost if a replacement is requested.
+Compensation must be claimed within 30 days of the original expected
+delivery date via Support > "Delayed Order."
+
+4. Delays Due to Courier or Force Majeure
+Meridian Commerce is not liable for delays caused by courier partner
+disruptions, natural disasters, regional strikes, or lockdowns. However,
+where such a delay exceeds 7 days beyond the promised window, a partial
+goodwill wallet credit will still be offered on request.
+
+5. Order Tracking
+Tracking details are emailed and sent via SMS within 24 hours of dispatch.
+Live tracking is available under "My Orders" > "Track Package."
+
+6. Address Changes
+Delivery address changes are only possible before an order has shipped. Once
+an order shows "Shipped" status, the address cannot be changed and the
+order must be cancelled and re-placed if the address was incorrect.
+
+7. Failed Delivery Attempts
+After 3 failed delivery attempts, the order is returned to our warehouse and
+the customer is notified. A refund is issued automatically within 7 business
+days unless the customer requests re-delivery within that window.
+
+8. Order Marked "Delivered" But Not Received
+If tracking shows "Delivered" but the customer has not received the item,
+Support will open a courier investigation. This typically resolves within
+5 business days; if the package cannot be located, a full refund or
+replacement is issued.
+
+9. International Shipping
+Meridian Commerce currently ships only within India. Cross-border shipping
+is not supported at this time.

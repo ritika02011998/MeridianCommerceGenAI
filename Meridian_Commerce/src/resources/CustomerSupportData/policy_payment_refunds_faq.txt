@@ -1,0 +1,49 @@
+PAYMENT & REFUNDS — FREQUENTLY ASKED QUESTIONS — Meridian Commerce
+
+Q: What payment methods does Meridian Commerce accept?
+A: We accept credit/debit cards, UPI, net banking, popular mobile wallets,
+and Cash on Delivery (COD) on eligible orders below ₹15,000.
+
+Q: I was charged twice for one order. What do I do?
+A: This is usually a temporary hold from your bank that resolves within
+3-5 business days without any action needed. If a duplicate charge is still
+visible on your statement after 5 business days, contact Support with your
+order ID and both transaction references, and we will refund the duplicate
+charge within 3 business days of verification.
+
+Q: My payment failed but the amount was deducted from my account.
+A: Failed-payment deductions are automatically reversed by your bank or
+payment provider within 5-7 business days. If the amount is not reversed
+after 7 business days, contact Support with your order ID and transaction
+ID for manual investigation.
+
+Q: How long does a refund take once approved?
+A: Refunds to cards typically reflect within 5-7 business days, depending on
+your bank. UPI and wallet refunds are usually instant to 2 business days.
+COD order refunds (issued as wallet credit or bank transfer) are processed
+within 5-7 business days of the returned item passing quality inspection.
+
+Q: Can I get a refund to a different payment method than I paid with?
+A: Refunds are issued to the original payment method by default. The only
+exception is COD orders, where the customer can choose between Meridian
+Wallet credit and a direct bank transfer.
+
+Q: Do you offer no-cost EMI?
+A: No-cost EMI is available on select cards for orders above ₹3,000, shown
+at checkout when eligible. EMI processing fees, if any, are charged by the
+issuing bank, not Meridian Commerce.
+
+Q: I placed an order using a promo code but the discount didn't apply.
+A: Promo codes have category, minimum-order-value, and one-per-customer
+restrictions listed on the offer page. If a code should have applied and
+didn't, contact Support with the code and order ID; eligible discrepancies
+are refunded as wallet credit within 3 business days.
+
+Q: Will I get a refund if the price drops after I've already bought the
+item?
+A: Meridian Commerce does not offer price-adjustment refunds for price
+changes after an order is placed, including during sale periods.
+
+Q: How do I get an invoice or GST bill for my order?
+A: Invoices are available under "My Orders" > "Invoice" for every order,
+downloadable as a PDF, including GST details where applicable.
